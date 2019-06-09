@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="39"
+   height="34"
+   viewBox="0 0 39 34"
+   enable-background="new 0 0 512 512"
+   xml:space="preserve"
+   id="svg3826"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="iconmonstr-flower-2-icon.svg"><metadata
+   id="metadata3833"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3831" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="716"
+   id="namedview3829"
+   showgrid="false"
+   inkscape:zoom="11.631699"
+   inkscape:cx="21.1022"
+   inkscape:cy="16.273453"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg3826" />
+<path
+   id="picture-2-icon"
+   d="M 34.618888,6.7918885 V 27.556222 H 4.7757766 V 6.7918885 H 34.618888 m 3.595555,-3.595555 H 1.1802206 V 31.151778 H 38.214443 V 3.1963335 l 0,0 z M 17.377569,24.723284 c -2.364887,-0.40414 -4.165271,-2.462506 -4.165271,-4.942631 v -3.925088 l 4.165271,4.148552 v 4.719167 z m 3.120493,-3.206337 V 17.22682 c 4.184867,-0.785359 4.340465,-5.326276 3.067279,-7.6754325 L 21.472997,11.852004 19.668747,9.5514775 17.981892,11.852094 15.829323,9.5514775 C 14.590834,11.836273 14.68306,16.436157 18.896601,17.22691 v 7.569723 h 2.269875 c 2.770196,0 5.01589,-2.245604 5.01589,-5.01598 v -3.925088 l -5.684304,5.661382 z"
+   inkscape:connector-curvature="0" />
+</svg>

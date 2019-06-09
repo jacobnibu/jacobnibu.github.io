@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>nibu.dev</title>
+    <meta name="description" content="Nibu Jacob. Software Developer and Data Scientist">
+    <meta name="author" content="Nibu Jacob">
+    <meta name="robots" content="index, follow">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="nibu.dev">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.nibu.dev">
+    <meta property="og:description" content="Nibu Jacob. Software Developer and Data Scientist">
+    <meta property="og:site_name" content="Home">
+    <meta property="og:locale" content="en_US">
+    <link rel="shortcut icon" href="./favicon.ico">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+    <!--<![endif]-->
+    <script src="./js/app.min.js.download"></script><script src="./js/main.min.js.download"></script>
+    <script src="./js/pinto.min.js" type="text/javascript"></script>
+  </head>
+  <body>
+  <div class="header">
+    <div class="pure-menu pure-menu-horizontal">
+        <a class="pure-menu-heading" href="./index.html">
+            <img src="./images/homeicon.svg" />
+        </a>
+
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item"><a href="./projects.html" class="pure-menu-link">Projects</a></li>
+            <li class="pure-menu-item"><a href="./infographics.html" class="pure-menu-link">Infographics</a></li>
+            <li class="pure-menu-item"><a href="./articles.html" class="pure-menu-link">Articles</a></li>
+            <li class="pure-menu-item"><a href="./photos.html" class="pure-menu-link">Photography</a></li>
+        </ul>
+    </div>
+  </div>
+
+<div id="main">
+<h2 class="title">Project works</h2>
+<div id="container">
+	<div id="project"><a href="/projects/numerical-cognition/" target="_blank"><span class="projtitle">Visualizing Academic Landscape of Numerical Cognition</span></a>
+	<p class="linespacehigh">Visualization of historic research and current research fronts in the academic subdiscipline of numerical cognition
+	using network visualization tools helped the client (a post-doctoral researcher at Carnegie Mellon University)
+	in identifying patterns and clusters as well as areas to focus on.</p>
+	<p class="linespacelow">Completion date: Apr 2015</p>
+	<p class="linespacelow">Tools: Gephi, Sci2, R</p>
+	<p class="deliverable"><b>Deliverables:</b> <a href="/articles/Visualizing the Academic Landscape of Numerical Cognition.pdf" target="_blank">project report</a>, 
+	<a href="/projects/numerical-cognition/" target="_blank">visualizations</a>,
+	<a href="https://github.com/jacobnibu/Network-Reduction" target="_blank">repository</a></p>
+	</div>
+	<div id="project"><a href="/projects/garden-planner/" target="_blank"><span class="projtitle">Creating a Semantic Web Application</span></a>
+	<p class="linespacehigh">Semantic web is the next step in the evolution of world wide web. A prototype web application
+	that searches semantically annotated data in an RDF storage using SPARQL queries and displays meaningful search results to the user.</p>
+	<p class="linespacelow">Completion date: May 2015</p>
+	<p class="linespacelow">Tools: Apache Jena, Java</p>
+	<p class="deliverable"><b>Deliverables:</b> <a href="/articles/Garden Planner - A Semantic Web Prototype.pdf" target="_blank">project report</a>, 
+	<a href="/projects/garden-planner/" target="_blank">web application</a>,
+	<a href="https://github.com/jacobnibu/GardenPlanner" target="_blank">repository</a></p>
+	</div>
+	<div id="project"><a href="/projects/twitter-geocoding/"><span class="projtitle">Modeling Twitter Dataset</span></a>
+	<p class="linespacehigh">Google Geocoding API allows geomapping of Twitter users on a geographical map. Visualization of Twitter users
+	after cleaning and geocoding the dataset.</p>
+	<p class="linespacelow">Completion date: Dec 2014</p>
+	<p class="linespacelow">Tools: Java, MongoDB</p>
+	<p class="deliverable"><b>Deliverables:</b> <a href="/articles/Modeling Twitter Dataset.pdf" target="_blank">project report</a>, 
+	<a href="/projects/twitter-geocoding/">visualization</a>,
+	<a href="https://github.com/jacobnibu/twitter-geocoding" target="_blank">repository</a></p>
+	</div>
+	<div id="project"><a href="/articles/Mining Medical Records Data.pdf" target="_blank"><span class="projtitle">Mining Medical Records Data</span></a>
+	<p class="linespacehigh">Exploratory data analysis using R to mine and display graphically the various statistics 
+	of patient populations in a medical records dataset. Correlations between patient-related health variables explored
+	to find statistically significant relationships.</p>
+	<p class="linespacelow">Completion date: Dec 2014</p>
+	<p class="deliverable"><b>Deliverables:</b> <a href="/articles/Mining Medical Records Data.pdf" target="_blank">project report</a>,
+	<a href="https://github.com/jacobnibu/medical-records-data-statistics" target="_blank">repository</a></p>
+	</div>
+	
+	
+</div><!-- container ends -->
+	<script type="text/javascript">
+	$(window).load(function(){
+		var u={itemSelector:"> div",itemWidth:540,marginX:40,marginY:10,align:"left",fitWidth:0,animate:!0,autoResize:!0,resizeDelay:50};
+		$('#container').pinto(u);
+	});
+	</script>
+</div><!-- main ends -->
+</body>
+</html>

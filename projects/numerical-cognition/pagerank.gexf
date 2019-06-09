@@ -1,0 +1,2437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-04-27">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="v_document_type" title="document_type" type="string"></attribute>
+      <attribute id="v_isi_unique_article_identifier" title="isi_unique_article_identifier" type="string"></attribute>
+      <attribute id="v_publication_date" title="publication_date" type="string"></attribute>
+      <attribute id="v_publication_year" title="publication_year" type="double"></attribute>
+      <attribute id="v_subject_category" title="subject_category" type="string"></attribute>
+      <attribute id="v_times_cited" title="times_cited" type="double"></attribute>
+      <attribute id="v_title" title="title" type="string"></attribute>
+      <attribute id="v_source" title="source" type="string"></attribute>
+      <attribute id="v_authority_score" title="authority_score" type="double"></attribute>
+      <attribute id="v_hub_score" title="hub_score" type="double"></attribute>
+      <attribute id="v_keywords" title="keywords" type="string"></attribute>
+      <attribute id="v_keyword_count" title="keyword_count" type="double"></attribute>
+      <attribute id="v_page_rank" title="page_rank" type="double"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n2" label="Dehaene 2003">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000184129000012"></attvalue>
+          <attvalue for="v_publication_date" value="MAY-SEP"></attvalue>
+          <attvalue for="v_publication_year" value="2003.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="815.0"></attvalue>
+          <attvalue for="v_title" value="Three parietal circuits for number processing"></attvalue>
+          <attvalue for="v_source" value="COGNITIVE NEUROPSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.554123"></attvalue>
+          <attvalue for="v_hub_score" value="1.0"></attvalue>
+          <attvalue for="v_keywords" value="EARLY ADOLESCENCE,INFANTS,THOUGHT"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00411923"></attvalue>
+        </attvalues>
+        <viz:size value="15.693664"></viz:size>
+        <viz:position x="584.25586" y="199.22722" z="0.0"></viz:position>
+        <viz:color r="192" g="166" b="130"></viz:color>
+      </node>
+      <node id="n4" label="Shinskey 2009">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000267266900003"></attvalue>
+          <attvalue for="v_publication_date" value="AUG"></attvalue>
+          <attvalue for="v_publication_year" value="2009.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="Preschoolers' nonsymbolic arithmetic with large sets: Is addition more accurate than subtraction?"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF EXPERIMENTAL CHILD PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.182103"></attvalue>
+          <attvalue for="v_hub_score" value="0.00336507"></attvalue>
+          <attvalue for="v_keywords" value="EBBINGHAUS,LETTER PAIRS,UNCERTAINTY,VERBAL REPORTS,JUDGEMENTS,DISCRIMINABILITY,JUDGMENTS,LINEAR ORDERINGS,MAGNITUDE,LONG-TERM-MEMORY"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00316046"></attvalue>
+        </attvalues>
+        <viz:size value="7.468939"></viz:size>
+        <viz:position x="-613.5354" y="67.97591" z="0.0"></viz:position>
+        <viz:color r="213" g="186" b="107"></viz:color>
+      </node>
+      <node id="n8" label="Cavanna 2006">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000235433800003"></attvalue>
+          <attvalue for="v_publication_date" value="MAR"></attvalue>
+          <attvalue for="v_publication_year" value="2006.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="1191.0"></attvalue>
+          <attvalue for="v_title" value="The precuneus: a review of its functional anatomy and behavioural correlates"></attvalue>
+          <attvalue for="v_source" value="BRAIN"></attvalue>
+          <attvalue for="v_authority_score" value="0.004307"></attvalue>
+          <attvalue for="v_hub_score" value="0.0218389"></attvalue>
+          <attvalue for="v_keywords" value="COMPREHENSION,INDIVIDUAL-DIFFERENCES,PHONOLOGICAL MEMORY,SHORT-TERM-MEMORY,IMPAIRMENT,VOCABULARY ACQUISITION,CAPACITY,SPAN,LEARNING-DISABILITIES,YOUNG-CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00667698"></attvalue>
+        </attvalues>
+        <viz:size value="37.635094"></viz:size>
+        <viz:position x="-76.70872" y="612.5048" z="0.0"></viz:position>
+        <viz:color r="134" g="113" b="190"></viz:color>
+      </node>
+      <node id="n15" label="Monfort 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000345734500019"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Distortion of time interval reproduction in an epileptic patient with a focal lesion in the right anterior insular/inferior frontal cortices"></attvalue>
+          <attvalue for="v_source" value="NEUROPSYCHOLOGIA"></attvalue>
+          <attvalue for="v_authority_score" value="0.109212"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="HUMAN INFANTS,NUMBER REPRESENTATION,MODEL,TIME,NUMERICAL COMPETENCE,CHIMPANZEE PAN-TROGLODYTES,KNOWLEDGE,COGNITION,PERCEPTION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00463352"></attvalue>
+        </attvalues>
+        <viz:size value="20.105453"></viz:size>
+        <viz:position x="341.98694" y="513.8982" z="0.0"></viz:position>
+        <viz:color r="180" g="156" b="142"></viz:color>
+      </node>
+      <node id="n19" label="Van rooijen 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000332428300008"></attvalue>
+          <attvalue for="v_publication_date" value="APR"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Cognitive precursors of arithmetic development in primary school children with cerebral palsy"></attvalue>
+          <attvalue for="v_source" value="RESEARCH IN DEVELOPMENTAL DISABILITIES"></attvalue>
+          <attvalue for="v_authority_score" value="0.155129"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="AUTOMATICITY,ATTENTION,MODEL,NUMERICAL COGNITION,STROOP,WORD RECOGNITION,REPRESENTATION,FACT RETRIEVAL,PERCEPTION,MAGNITUDE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00296391"></attvalue>
+        </attvalues>
+        <viz:size value="5.782854"></viz:size>
+        <viz:position x="551.52075" y="277.25665" z="0.0"></viz:position>
+        <viz:color r="218" g="190" b="103"></viz:color>
+      </node>
+      <node id="n25" label="Berteletti 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000340317500010"></attvalue>
+          <attvalue for="v_publication_date" value="AUG"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Children with mathematical learning disability fail in recruiting verbal and numerical brain regions when solving simple multiplication problems"></attvalue>
+          <attvalue for="v_source" value="CORTEX"></attvalue>
+          <attvalue for="v_authority_score" value="0.0668844"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="BEHAVIOR,PARENTAL INFLUENCES,AMERICAN CHILDREN,READING-ACHIEVEMENT,FAMILY-INTERACTION PATTERNS,SCHOOL-ACHIEVEMENT,GENDER DIFFERENCES,DAY-CARE,LOW-INCOME FAMILIES,MATHEMATICS STRATEGY USE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00440831"></attvalue>
+        </attvalues>
+        <viz:size value="18.173512"></viz:size>
+        <viz:position x="576.61774" y="-220.35962" z="0.0"></viz:position>
+        <viz:color r="185" g="160" b="137"></viz:color>
+      </node>
+      <node id="n32" label="Zeng 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000321473500007"></attvalue>
+          <attvalue for="v_publication_date" value="JUN 26"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="An fMRI study on sunk cost effect"></attvalue>
+          <attvalue for="v_source" value="BRAIN RESEARCH"></attvalue>
+          <attvalue for="v_authority_score" value="0.155129"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="ARITHMETIC DISABILITIES,DISABLED-CHILDREN,AMERICAN CHILDREN,WORKING-MEMORY,STRATEGY CHOICE,OF-PROCESSING DIFFERENCES,DOUBLE DISSOCIATION,COUNTING KNOWLEDGE,COGNITIVE ADDITION,DEVELOPMENTAL DYSCALCULIA"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00364171"></attvalue>
+        </attvalues>
+        <viz:size value="11.5973"></viz:size>
+        <viz:position x="-3.3018456" y="-617.2807" z="0.0"></viz:position>
+        <viz:color r="203" g="176" b="119"></viz:color>
+      </node>
+      <node id="n33" label="Lindskog 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000320227700001"></attvalue>
+          <attvalue for="v_publication_date" value="JUN 12"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="3.0"></attvalue>
+          <attvalue for="v_title" value="Are there rapid feedback effects on Approximate Number System acuity?"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN HUMAN NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.211557"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="LEARNING-DIFFICULTIES,WORKING-MEMORY,STRATEGY CHOICE,SHORT-TERM-MEMORY,PRODUCT VERIFICATION,OF-PROCESSING DIFFERENCES,ODD-EVEN RULE,MENTAL MULTIPLICATION,COGNITIVE ADDITION,DEVELOPMENTAL DYSCALCULIA"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00300017"></attvalue>
+        </attvalues>
+        <viz:size value="6.0939074"></viz:size>
+        <viz:position x="-109.09477" y="-607.5728" z="0.0"></viz:position>
+        <viz:color r="217" g="190" b="104"></viz:color>
+      </node>
+      <node id="n34" label="Mccrink 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000317864500010"></attvalue>
+          <attvalue for="v_publication_date" value="MAY"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Non-symbolic halving in an Amazonian indigene group"></attvalue>
+          <attvalue for="v_source" value="DEVELOPMENTAL SCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.288034"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="BOARD GAMES,NUMERICAL ESTIMATION,DIFFICULTIES,INCOME,MATHEMATICAL DISABILITIES,BUILDING-BLOCKS,REPRESENTATIONS,MAGNITUDE,YOUNG-CHILDREN,DEVELOPMENTAL DYSCALCULIA"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00277107"></attvalue>
+        </attvalues>
+        <viz:size value="4.1285906"></viz:size>
+        <viz:position x="-263.1381" y="-558.3948" z="0.0"></viz:position>
+        <viz:color r="222" g="195" b="98"></viz:color>
+      </node>
+      <node id="n35" label="Toll 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000343935300006"></attvalue>
+          <attvalue for="v_publication_date" value="OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="The Developmental Relationship Between Language and Low Early Numeracy Skills Throughout Kindergarten"></attvalue>
+          <attvalue for="v_source" value="EXCEPTIONAL CHILDREN"></attvalue>
+          <attvalue for="v_authority_score" value="0.160196"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="MENTAL NUMBER LINE,DISABLED-CHILDREN,WORKING-MEMORY,HUMAN INFANTS,NUMERICAL COGNITION,SMALL NUMEROSITIES,READING DIFFICULTIES,MACACA-MULATTA,5-MONTH-OLD INFANTS,DEVELOPMENTAL DYSCALCULIA"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00374343"></attvalue>
+        </attvalues>
+        <viz:size value="12.469895"></viz:size>
+        <viz:position x="-419.43076" y="-452.9064" z="0.0"></viz:position>
+        <viz:color r="200" g="174" b="121"></viz:color>
+      </node>
+      <node id="n41" label="Imbo 2007">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000246663500009"></attvalue>
+          <attvalue for="v_publication_date" value="MAY"></attvalue>
+          <attvalue for="v_publication_year" value="2007.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology; Physiology"></attvalue>
+          <attvalue for="v_times_cited" value="25.0"></attvalue>
+          <attvalue for="v_title" value="The role of working memory in the carry operation of mental arithmetic: Number and value of the carry"></attvalue>
+          <attvalue for="v_source" value="QUARTERLY JOURNAL OF EXPERIMENTAL PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.0261246"></attvalue>
+          <attvalue for="v_hub_score" value="0.00817768"></attvalue>
+          <attvalue for="v_keywords" value="CORTICAL AREAS,NEUROPSYCHIATRIC DISORDERS,ARITHMETICAL FACTS,PATIENT,CONCEPTUAL KNOWLEDGE,SELECTIVE IMPAIRMENT,SUBTRACTION,MULTIPLICATION,ORGANIZATION,SIMPLE DIVISION"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00290244"></attvalue>
+        </attvalues>
+        <viz:size value="5.2555375"></viz:size>
+        <viz:position x="-611.6664" y="83.13007" z="0.0"></viz:position>
+        <viz:color r="219" g="192" b="101"></viz:color>
+      </node>
+      <node id="n42" label="Bisazza 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000338519400017"></attvalue>
+          <attvalue for="v_publication_date" value="JUN"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Life Sciences &amp; Biomedicine - Other Topics"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Non-visual numerical discrimination in a blind cavefish (Phreatichthys andruzzii)"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF EXPERIMENTAL BIOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.0986636"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="BASAL GANGLIA,POSITRON-EMISSION-TOMOGRAPHY,WORKING-MEMORY,MENTAL SUBTRACTION,HEAD-INJURIES,FINGER MOVEMENTS,CEREBRAL CONCUSSION,SUPPLEMENTARY MOTOR AREA,PARIETAL CORTEX,COORDINATION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00380854"></attvalue>
+        </attvalues>
+        <viz:size value="13.028433"></viz:size>
+        <viz:position x="-577.6961" y="217.51695" z="0.0"></viz:position>
+        <viz:color r="199" g="173" b="123"></viz:color>
+      </node>
+      <node id="n47" label="Fischer 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000340260100002"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology; Physiology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="Spatial associations in numerical cognition-From single digits to arithmetic"></attvalue>
+          <attvalue for="v_source" value="QUARTERLY JOURNAL OF EXPERIMENTAL PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.390852"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="PERCEIVED NUMEROSITY,STIMULUS,MODEL,TRACKING,VISION,OBJECTS,INDEXES,DEPENDENCE,PERCEPTION,WAGON-WHEEL ILLUSION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00940708"></attvalue>
+        </attvalues>
+        <viz:size value="61.05502"></viz:size>
+        <viz:position x="-465.71457" y="405.1621" z="0.0"></viz:position>
+        <viz:color r="73" g="56" b="255"></viz:color>
+      </node>
+      <node id="n51" label="Gotts 2012">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000306834600018"></attvalue>
+          <attvalue for="v_publication_year" value="2012.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="16.0"></attvalue>
+          <attvalue for="v_title" value="Repetition priming and repetition suppression: A case for enhanced efficiency through neural synchronization"></attvalue>
+          <attvalue for="v_source" value="COGNITIVE NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.00616109"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="INTERFERENCE,ADVERTISEMENTS,INTENTIONS,NUMERICAL ABILITIES,ATTENTION,STROOP,PRODUCT,CONTRAST,COLOR,INFORMATION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00380108"></attvalue>
+        </attvalues>
+        <viz:size value="12.964441"></viz:size>
+        <viz:position x="-402.80273" y="467.7567" z="0.0"></viz:position>
+        <viz:color r="199" g="173" b="122"></viz:color>
+      </node>
+      <node id="n54" label="Andres 2012">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000307369000020"></attvalue>
+          <attvalue for="v_publication_date" value="SEP"></attvalue>
+          <attvalue for="v_publication_year" value="2012.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Radiology, Nuclear Medicine &amp; Medical Imaging"></attvalue>
+          <attvalue for="v_times_cited" value="15.0"></attvalue>
+          <attvalue for="v_title" value="Common substrate for mental arithmetic and finger representation in the parietal cortex"></attvalue>
+          <attvalue for="v_source" value="NEUROIMAGE"></attvalue>
+          <attvalue for="v_authority_score" value="0.315671"></attvalue>
+          <attvalue for="v_hub_score" value="0.0247554"></attvalue>
+          <attvalue for="v_keywords" value="RECIPROCAL ALTRUISM,VALIDATION,NUMERICAL ABILITIES,ASSOCIATION,SIMILARITY,INFANTS,TRANSFORMATION,DYSCALCULIA,PERCEPTION,INFORMATION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00412528"></attvalue>
+        </attvalues>
+        <viz:size value="15.74556"></viz:size>
+        <viz:position x="-376.08276" y="489.49783" z="0.0"></viz:position>
+        <viz:color r="192" g="166" b="130"></viz:color>
+      </node>
+      <node id="n56" label="Marghetis 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000340260100010"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology; Physiology"></attvalue>
+          <attvalue for="v_times_cited" value="3.0"></attvalue>
+          <attvalue for="v_title" value="Doing arithmetic by hand: Hand movements during exact arithmetic reveal systematic, dynamic spatial processing"></attvalue>
+          <attvalue for="v_source" value="QUARTERLY JOURNAL OF EXPERIMENTAL PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.387155"></attvalue>
+          <attvalue for="v_hub_score" value="0.012286"></attvalue>
+          <attvalue for="v_keywords" value="MENTAL ADDITION,COMPONENTS,LEARNING-DIFFICULTIES,RESOURCES,STRATEGY CHOICE,SHORT-TERM-MEMORY,ACTIVATION,ARITHMETIC SUMS,MATHEMATICAL DISABILITY,SPAN"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00433365"></attvalue>
+        </attvalues>
+        <viz:size value="17.533052"></viz:size>
+        <viz:position x="-343.65103" y="512.78687" z="0.0"></viz:position>
+        <viz:color r="187" g="162" b="135"></viz:color>
+      </node>
+      <node id="n57" label="Skagerlund 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000338727700001"></attvalue>
+          <attvalue for="v_publication_date" value="JUN 27"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Development of magnitude processing in children with developmental dyscalculia: space, time, and number"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.424347"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="PROGRAM,SPECIAL EDUCATIONAL-NEEDS,EARLY NUMERACY,CARDINALITY,PRINCIPLE,KNOWLEDGE,LD,YOUNG-CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00402249"></attvalue>
+        </attvalues>
+        <viz:size value="14.863784"></viz:size>
+        <viz:position x="-310.69635" y="533.3987" z="0.0"></viz:position>
+        <viz:color r="194" g="168" b="128"></viz:color>
+      </node>
+      <node id="n59" label="Sobel 2015">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000347454200005"></attvalue>
+          <attvalue for="v_publication_date" value="JAN"></attvalue>
+          <attvalue for="v_publication_year" value="2015.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Target grouping in visual search for multiple digits"></attvalue>
+          <attvalue for="v_source" value="ATTENTION PERCEPTION &amp; PSYCHOPHYSICS"></attvalue>
+          <attvalue for="v_authority_score" value="0.107052"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="TARGET DETECTION,NUMBER,WORKING-MEMORY,PREFRONTAL CORTEX,INHIBITION,ANTERIOR CINGULATE,ATTENTION,ACTIVATION,MENTAL CALCULATION,TASK"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00331837"></attvalue>
+        </attvalues>
+        <viz:size value="8.823559"></viz:size>
+        <viz:position x="-285.81387" y="547.13513" z="0.0"></viz:position>
+        <viz:color r="210" g="183" b="111"></viz:color>
+      </node>
+      <node id="n60" label="Tcheang 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000330690200008"></attvalue>
+          <attvalue for="v_publication_date" value="JAN 2"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Culture and Math"></attvalue>
+          <attvalue for="v_source" value="COGNITIVE NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.475788"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="WORKING-MEMORY CAPACITY,NUMBER CONSERVATION,STRATEGIES,PRESCHOOLERS,TO-ONE CORRESPONDENCE,WORDS,CARDINALITY,INFANTS,YOUNG-CHILDREN,EQUIVALENCE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00540305"></attvalue>
+        </attvalues>
+        <viz:size value="26.706808"></viz:size>
+        <viz:position x="-247.37155" y="565.5561" z="0.0"></viz:position>
+        <viz:color r="163" g="139" b="160"></viz:color>
+      </node>
+      <node id="n65" label="Rugani 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000337899000011"></attvalue>
+          <attvalue for="v_publication_date" value="MAY"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Psychology; Zoology"></attvalue>
+          <attvalue for="v_times_cited" value="3.0"></attvalue>
+          <attvalue for="v_title" value="From Small to Large: Numerical Discrimination by Young Domestic Chicks (Gallus gallus)"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF COMPARATIVE PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.189304"></attvalue>
+          <attvalue for="v_hub_score" value="0.00977435"></attvalue>
+          <attvalue for="v_keywords" value="MENTAL ADDITION,MULTIPLICATION SKILL,RESPONSE SELECTION,SHORT-TERM-MEMORY,TASKS,ARITHMETIC SUMS,PERFORMANCE,EXECUTIVE CONTROL,ANXIETY,RETRIEVAL"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00278789"></attvalue>
+        </attvalues>
+        <viz:size value="4.2728806"></viz:size>
+        <viz:position x="-212.88365" y="579.4195" z="0.0"></viz:position>
+        <viz:color r="222" g="194" b="99"></viz:color>
+      </node>
+      <node id="n70" label="Moeller 2011">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000293310600052"></attvalue>
+          <attvalue for="v_publication_date" value="SEP-OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2011.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="17.0"></attvalue>
+          <attvalue for="v_title" value="Early place-value understanding as a precursor for later arithmetic performance-A longitudinal study on numerical development"></attvalue>
+          <attvalue for="v_source" value="RESEARCH IN DEVELOPMENTAL DISABILITIES"></attvalue>
+          <attvalue for="v_authority_score" value="0.138229"></attvalue>
+          <attvalue for="v_hub_score" value="0.0144388"></attvalue>
+          <attvalue for="v_keywords" value="CORTEX,NUMBER,REPRESENTATION,JUDGMENTS,INEQUALITY,RESPONSE-SELECTION,SYSTEMS,MAGNITUDE,PARIETAL ACTIVATION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00275608"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-203.5381" y="582.76807" z="0.0"></viz:position>
+        <viz:color r="223" g="195" b="98"></viz:color>
+      </node>
+      <node id="n76" label="Imbo 2005">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000233197300001"></attvalue>
+          <attvalue for="v_publication_year" value="2005.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="5.0"></attvalue>
+          <attvalue for="v_title" value="New insights in the role of working memory in carry and borrow operations"></attvalue>
+          <attvalue for="v_source" value="PSYCHOLOGICA BELGICA"></attvalue>
+          <attvalue for="v_authority_score" value="0.0261246"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="SPATIAL WORKING-MEMORY,ACTIVATION,MENTAL CALCULATION,PARIETAL CORTEX,FMRI,MULTIPLICATION,MRI,BLOOD-FLOW,LANGUAGE,DYSLEXIA"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00290244"></attvalue>
+        </attvalues>
+        <viz:size value="5.2555375"></viz:size>
+        <viz:position x="-193.0202" y="586.33575" z="0.0"></viz:position>
+        <viz:color r="219" g="192" b="101"></viz:color>
+      </node>
+      <node id="n78" label="Wang 2007">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000207261300003"></attvalue>
+          <attvalue for="v_publication_date" value="DEC"></attvalue>
+          <attvalue for="v_publication_year" value="2007.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="5.0"></attvalue>
+          <attvalue for="v_title" value="Mathematical and Linguistic Processing Differs Between Native and Second Languages: An fMRI Study"></attvalue>
+          <attvalue for="v_source" value="BRAIN IMAGING AND BEHAVIOR"></attvalue>
+          <attvalue for="v_authority_score" value="0.350039"></attvalue>
+          <attvalue for="v_hub_score" value="0.019012"></attvalue>
+          <attvalue for="v_keywords" value="MONKEY,PREFRONTAL CORTEX,DISSOCIATION,NUMBER REPRESENTATION,MODEL,ADULTS,NUMERICAL INFORMATION,COGNITION,CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00278123"></attvalue>
+        </attvalues>
+        <viz:size value="4.215749"></viz:size>
+        <viz:position x="-182.19247" y="589.79004" z="0.0"></viz:position>
+        <viz:color r="222" g="194" b="98"></viz:color>
+      </node>
+      <node id="n79" label="Klados 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000323425700101"></attvalue>
+          <attvalue for="v_publication_date" value="AUG 19"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Science &amp; Technology - Other Topics"></attvalue>
+          <attvalue for="v_times_cited" value="3.0"></attvalue>
+          <attvalue for="v_title" value="A Graph Theoretical Approach to Study the Organization of the Cortical Networks during Different Mathematical Tasks"></attvalue>
+          <attvalue for="v_source" value="PLOS ONE"></attvalue>
+          <attvalue for="v_authority_score" value="0.0320059"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="ATTENTIONAL SELECTION,QUANTITY,ACALCULIA,REPRESENTATION,ACTIVATION,MENTAL CALCULATION,FMRI,HUMAN-BRAIN,SYSTEMS,MAGNITUDE"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00509813"></attvalue>
+        </attvalues>
+        <viz:size value="24.091072"></viz:size>
+        <viz:position x="-149.47813" y="598.9179" z="0.0"></viz:position>
+        <viz:color r="170" g="146" b="153"></viz:color>
+      </node>
+      <node id="n86" label="Corbetta 2002">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000174207900016"></attvalue>
+          <attvalue for="v_publication_date" value="MAR"></attvalue>
+          <attvalue for="v_publication_year" value="2002.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="3420.0"></attvalue>
+          <attvalue for="v_title" value="Control of goal-directed and stimulus-driven attention in the brain"></attvalue>
+          <attvalue for="v_source" value="NATURE REVIEWS NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.0293317"></attvalue>
+          <attvalue for="v_hub_score" value="0.149533"></attvalue>
+          <attvalue for="v_keywords" value="REPETITION PRIMING TASK,HUMAN EEG,NEURONAL SYNCHRONIZATION,BASAL GANGLIA,CORTICAL OSCILLATORY ACTIVITY,SUPPLEMENTARY MOTOR AREA,WORKING-MEMORY TASK,BRAIN ACTIVITY,TO-SAMPLE,EVOKED-POTENTIALS"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00327759"></attvalue>
+        </attvalues>
+        <viz:size value="8.473729"></viz:size>
+        <viz:position x="-21.57255" y="616.9125" z="0.0"></viz:position>
+        <viz:color r="211" g="184" b="110"></viz:color>
+      </node>
+      <node id="n97" label="Kanayet 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000340549300004"></attvalue>
+          <attvalue for="v_publication_date" value="AUG"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="The Value of Numbers in Economic Rewards"></attvalue>
+          <attvalue for="v_source" value="PSYCHOLOGICAL SCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.164748"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="ENUMERATION,RETURN,MAGIC NUMBER 4,INHIBITION,ATTENTION,SACCADES,MEMORY,PERFORMANCE,SERIAL VISUAL-SEARCH,AGE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00284392"></attvalue>
+        </attvalues>
+        <viz:size value="4.7535286"></viz:size>
+        <viz:position x="-5.704153" y="617.2632" z="0.0"></viz:position>
+        <viz:color r="221" g="193" b="100"></viz:color>
+      </node>
+      <node id="n104" label="Gusnard 2001">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000171454000015"></attvalue>
+          <attvalue for="v_publication_date" value="OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2001.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="1506.0"></attvalue>
+          <attvalue for="v_title" value="Searching for a baseline: Functional imaging and the resting human brain"></attvalue>
+          <attvalue for="v_source" value="NATURE REVIEWS NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.0184622"></attvalue>
+          <attvalue for="v_hub_score" value="0.00606739"></attvalue>
+          <attvalue for="v_keywords" value="SPATIAL IMAGERY,WORKING-MEMORY,PREFRONTAL CORTEX,OCLOCK TEST,UNILATERAL NEGLECT,VISUAL-IMAGERY,FUNCTIONAL-ANATOMY,MINDS IMAGE,REPRESENTATIONAL NEGLECT,SPACE"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.0050594"></attvalue>
+        </attvalues>
+        <viz:size value="23.758831"></viz:size>
+        <viz:position x="28.500462" y="616.6313" z="0.0"></viz:position>
+        <viz:color r="171" g="147" b="152"></viz:color>
+      </node>
+      <node id="n107" label="Barsalou 1999">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000083668300001"></attvalue>
+          <attvalue for="v_publication_date" value="AUG"></attvalue>
+          <attvalue for="v_publication_year" value="1999.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology; Behavioral Sciences; Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="1819.0"></attvalue>
+          <attvalue for="v_title" value="Perceptual symbol systems"></attvalue>
+          <attvalue for="v_source" value="BEHAVIORAL AND BRAIN SCIENCES"></attvalue>
+          <attvalue for="v_authority_score" value="0.015028"></attvalue>
+          <attvalue for="v_hub_score" value="0.0677957"></attvalue>
+          <attvalue for="v_keywords" value="INDIVIDUAL-DIFFERENCES,WORKING-MEMORY,STRATEGY CHOICE,SHORT-TERM-MEMORY,GENERAL FLUID INTELLIGENCE,PROCESSING SPEED,DIFFICULTIES,EXECUTIVE ATTENTION,YOUNG-CHILDREN,LEARNING-DISABILITY"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00376373"></attvalue>
+        </attvalues>
+        <viz:size value="12.644033"></viz:size>
+        <viz:position x="72.02957" y="613.0727" z="0.0"></viz:position>
+        <viz:color r="200" g="174" b="122"></viz:color>
+      </node>
+      <node id="n111" label="Domahs 2012">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000208863900004"></attvalue>
+          <attvalue for="v_publication_year" value="2012.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="3.0"></attvalue>
+          <attvalue for="v_title" value="Multimodal semantic quantity representations: further evidence from Korean sign language"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.121926"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="HUMAN INFANTS,MATH ANXIETY,SUBTRACTION,DYSLEXIA"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00323683"></attvalue>
+        </attvalues>
+        <viz:size value="8.124071"></viz:size>
+        <viz:position x="96.71563" y="609.6659" z="0.0"></viz:position>
+        <viz:color r="212" g="185" b="109"></viz:color>
+      </node>
+      <node id="n113" label="Bartelet 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000332050400011"></attvalue>
+          <attvalue for="v_publication_date" value="MAR"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Cognitive subtypes of mathematics learning difficulties in primary education"></attvalue>
+          <attvalue for="v_source" value="RESEARCH IN DEVELOPMENTAL DISABILITIES"></attvalue>
+          <attvalue for="v_authority_score" value="0.144828"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="MENTAL ADDITION,HUMAN BRAIN,CORTICAL ACTIVATION,NUMBER,ANTERIOR CINGULATE CORTEX,HUMAN INFANTS,PARIETAL CORTEX,EVENT-RELATED FMRI,RESPONSE CONFLICT,VISUOSPATIAL WORKING-MEMORY"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00277267"></attvalue>
+        </attvalues>
+        <viz:size value="4.142317"></viz:size>
+        <viz:position x="111.22463" y="607.1865" z="0.0"></viz:position>
+        <viz:color r="222" g="194" b="98"></viz:color>
+      </node>
+      <node id="n114" label="Haxby 2001">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000171237200038"></attvalue>
+          <attvalue for="v_publication_date" value="SEP 28"></attvalue>
+          <attvalue for="v_publication_year" value="2001.0"></attvalue>
+          <attvalue for="v_subject_category" value="Science &amp; Technology - Other Topics"></attvalue>
+          <attvalue for="v_times_cited" value="1282.0"></attvalue>
+          <attvalue for="v_title" value="Distributed and overlapping representations of faces and objects in ventral temporal cortex"></attvalue>
+          <attvalue for="v_source" value="SCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.0052672"></attvalue>
+          <attvalue for="v_hub_score" value="0.00545059"></attvalue>
+          <attvalue for="v_keywords" value="STRUCTURAL-EQUATION MODELS,LIMITS,PROGRAM,CONFIDENCE-INTERVALS,PRODUCT,SOCIALIZATION,PERFORMANCE,INTERVENTION"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00288574"></attvalue>
+        </attvalues>
+        <viz:size value="5.112277"></viz:size>
+        <viz:position x="122.12979" y="605.08734" z="0.0"></viz:position>
+        <viz:color r="220" g="192" b="101"></viz:color>
+      </node>
+      <node id="n118" label="Fazio 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000336185700004"></attvalue>
+          <attvalue for="v_publication_date" value="JUL"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="Relations of different types of numerical magnitude representations to each other and to mathematics achievement"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF EXPERIMENTAL CHILD PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.157428"></attvalue>
+          <attvalue for="v_hub_score" value="7.03595E-5"></attvalue>
+          <attvalue for="v_keywords" value="COUNTING PRINCIPLES,PRESCHOOL-CHILDREN,NUMBER LINE,REPRESENTATION,NUMEROSITIES,SUBTRACTION,INFANTS,KNOWLEDGE,SYSTEMS,YOUNG-CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00355541"></attvalue>
+        </attvalues>
+        <viz:size value="10.856982"></viz:size>
+        <viz:position x="140.85223" y="601.005" z="0.0"></viz:position>
+        <viz:color r="205" g="178" b="117"></viz:color>
+      </node>
+      <node id="n124" label="Clemens 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000321539400016"></attvalue>
+          <attvalue for="v_publication_date" value="JUN"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Modulating arithmetic fact retrieval: A single-blind, sham-controlled tDCS study with repeated fMRI measurements"></attvalue>
+          <attvalue for="v_source" value="NEUROPSYCHOLOGIA"></attvalue>
+          <attvalue for="v_authority_score" value="0.280595"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="INDIVIDUAL-DIFFERENCES,PREFRONTAL CORTEX,CORTICAL REPRESENTATION,HUMAN WORKING-MEMORY,FUNCTIONAL NEUROANATOMY,MENTAL CALCULATION,PARIETAL CORTEX,RELATIONAL COMPLEXITY,BRAIN ACTIVATION,EYE-MOVEMENTS"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00298852"></attvalue>
+        </attvalues>
+        <viz:size value="5.9939704"></viz:size>
+        <viz:position x="160.46085" y="596.0694" z="0.0"></viz:position>
+        <viz:color r="217" g="190" b="103"></viz:color>
+      </node>
+      <node id="n125" label="Nieder 2009">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review; Book Chapter"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000268504100008"></attvalue>
+          <attvalue for="v_publication_year" value="2009.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="153.0"></attvalue>
+          <attvalue for="v_title" value="Representation of Number in the Brain"></attvalue>
+          <attvalue for="v_source" value="ANNUAL REVIEW OF NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.421206"></attvalue>
+          <attvalue for="v_hub_score" value="0.167037"></attvalue>
+          <attvalue for="v_keywords" value="SIMILAR SIGNALS,PARROT PSITTACUS-ERITHACUS,ASSOCIATION CORTEX,HUMAN INFANTS,NUMBER REPRESENTATION,ZERO-LIKE CONCEPT,CHIMPANZEE PAN-TROGLODYTES,INTRAPARIETAL SULCUS,SELECTIVE ACALCULIA,EVOKED-POTENTIALS"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00370169"></attvalue>
+        </attvalues>
+        <viz:size value="12.111834"></viz:size>
+        <viz:position x="181.3372" y="590.0536" z="0.0"></viz:position>
+        <viz:color r="201" g="175" b="120"></viz:color>
+      </node>
+      <node id="n126" label="Izard 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000337930200002"></attvalue>
+          <attvalue for="v_publication_date" value="JUL"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Toward exact number: Young children use one-to-one correspondence to measure set identity but not numerical equality"></attvalue>
+          <attvalue for="v_source" value="COGNITIVE PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.249097"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="CORTICOBASAL DEGENERATION,COMPREHENSION,BRAIN,WORKING-MEMORY,ATTENTION,REPRESENTATION,PARIETAL CORTEX,SEMANTIC DEMENTIA,NUMBER SENSE,LANGUAGE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00292815"></attvalue>
+        </attvalues>
+        <viz:size value="5.476087"></viz:size>
+        <viz:position x="201.40158" y="583.5099" z="0.0"></viz:position>
+        <viz:color r="219" g="191" b="102"></viz:color>
+      </node>
+      <node id="n130" label="Metcalfe 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000328298700017"></attvalue>
+          <attvalue for="v_publication_date" value="OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Fractionating the neural correlates of individual working memory components underlying arithmetic problem solving skills in children"></attvalue>
+          <attvalue for="v_source" value="DEVELOPMENTAL COGNITIVE NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.30095"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="SYMBOLIC DISTANCE,TIME,JUDGMENTS,INEQUALITY"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00738219"></attvalue>
+        </attvalues>
+        <viz:size value="43.684685"></viz:size>
+        <viz:position x="256.16238" y="561.6291" z="0.0"></viz:position>
+        <viz:color r="118" g="98" b="207"></viz:color>
+      </node>
+      <node id="n132" label="Hyde 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000328298700011"></attvalue>
+          <attvalue for="v_publication_date" value="OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Relational congruence facilitates neural mapping of spatial and temporal magnitudes in preverbal infants"></attvalue>
+          <attvalue for="v_source" value="DEVELOPMENTAL COGNITIVE NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.196776"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="NUMBER,IDIOT-SAVANT,AUTISM,MEMORY,CALENDAR CALCULATION ABILITY,ACTIVATION,SKILLS"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00334671"></attvalue>
+        </attvalues>
+        <viz:size value="9.066671"></viz:size>
+        <viz:position x="312.30954" y="532.45575" z="0.0"></viz:position>
+        <viz:color r="209" g="182" b="112"></viz:color>
+      </node>
+      <node id="n151" label="Thompson 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000325834500014"></attvalue>
+          <attvalue for="v_publication_date" value="OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="The link between mental rotation ability and basic numerical representations"></attvalue>
+          <attvalue for="v_source" value="ACTA PSYCHOLOGICA"></attvalue>
+          <attvalue for="v_authority_score" value="0.194743"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="PREVALENCE,STUDENTS,READING DIFFICULTIES,DISABILITY,PRESCHOOL,SCHOOL,ACHIEVEMENT,ARITHMETICAL COGNITION,RISK,MATH"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00280771"></attvalue>
+        </attvalues>
+        <viz:size value="4.442904"></viz:size>
+        <viz:position x="366.1123" y="496.99918" z="0.0"></viz:position>
+        <viz:color r="221" g="194" b="99"></viz:color>
+      </node>
+      <node id="n157" label="Borst 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000329250000002"></attvalue>
+          <attvalue for="v_publication_date" value="DEC 27"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Inhibitory control and visuo-spatial reversibility in Piaget's seminal number conservation task: a high-density ERP study"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN HUMAN NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.0653086"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="PERCEPTUAL SYMBOL SYSTEMS,MENTAL NUMBER LINE,EVENT-RELATED POTENTIALS,WORD FORM AREA,PRIMATE PREFRONTAL CORTEX,FUSIFORM FACE AREA,FUNCTIONAL BRAIN-DEVELOPMENT,HUMAN INTRAPARIETAL CORTEX,STIMULUS-RESPONSE COMPATIBILITY,TRANSCRANIAL MAGNETIC STIMULATION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00438944"></attvalue>
+        </attvalues>
+        <viz:size value="18.011635"></viz:size>
+        <viz:position x="387.4513" y="480.54956" z="0.0"></viz:position>
+        <viz:color r="186" g="161" b="136"></viz:color>
+      </node>
+      <node id="n169" label="Kibbe 2015">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000346986700003"></attvalue>
+          <attvalue for="v_publication_date" value="JAN"></attvalue>
+          <attvalue for="v_publication_year" value="2015.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Young children 'solve for x' using the Approximate Number System"></attvalue>
+          <attvalue for="v_source" value="DEVELOPMENTAL SCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.117812"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="RATIONAL NUMBERS,CHILDRENS ADDITION,INDIVIDUAL-DIFFERENCES,ACQUISITION,INTEGRATED THEORY,SUBTRACTION,NUMERICAL ESTIMATION,INSTRUCTION,MATHEMATICS,SKILLS"></attvalue>
+          <attvalue for="v_keyword_count" value="4.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00329171"></attvalue>
+        </attvalues>
+        <viz:size value="8.594856"></viz:size>
+        <viz:position x="411.7773" y="459.8759" z="0.0"></viz:position>
+        <viz:color r="210" g="184" b="110"></viz:color>
+      </node>
+      <node id="n171" label="Anobile 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000325586900019"></attvalue>
+          <attvalue for="v_publication_date" value="OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="Visual sustained attention and numerosity sensitivity correlate with math achievement in children"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF EXPERIMENTAL CHILD PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.223897"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="READING-ABILITY,WHITE-MATTER MICROSTRUCTURE,YOUNG-ADULTS,CORPUS-CALLOSUM,INTRAPARIETAL SULCUS,ACADEMIC-ACHIEVEMENT,DIFFUSION,NERVOUS-SYSTEM,EXPOSURE,DEVELOPMENTAL DYSCALCULIA"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00534052"></attvalue>
+        </attvalues>
+        <viz:size value="26.170391"></viz:size>
+        <viz:position x="441.89343" y="431.01807" z="0.0"></viz:position>
+        <viz:color r="164" g="141" b="159"></viz:color>
+      </node>
+      <node id="n173" label="Lemaire 1996">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:A1996UE78500004"></attvalue>
+          <attvalue for="v_publication_date" value="MAR"></attvalue>
+          <attvalue for="v_publication_year" value="1996.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="97.0"></attvalue>
+          <attvalue for="v_title" value="The role of working memory resources in simple cognitive arithmetic"></attvalue>
+          <attvalue for="v_source" value="EUROPEAN JOURNAL OF COGNITIVE PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.0350644"></attvalue>
+          <attvalue for="v_hub_score" value="0.0019083"></attvalue>
+          <attvalue for="v_keywords" value="HUMAN INFANTS,MODEL,MATHEMATICAL LEARNING-DISABILITY,REPRESENTATION,ACUITY,ACHIEVEMENT,LINE,NUMBER SENSE,CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00423432"></attvalue>
+        </attvalues>
+        <viz:size value="16.680954"></viz:size>
+        <viz:position x="476.2244" y="392.7553" z="0.0"></viz:position>
+        <viz:color r="189" g="164" b="133"></viz:color>
+      </node>
+      <node id="n177" label="Gobel 2011">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000290711100003"></attvalue>
+          <attvalue for="v_publication_date" value="MAY"></attvalue>
+          <attvalue for="v_publication_year" value="2011.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="25.0"></attvalue>
+          <attvalue for="v_title" value="The Cultural Number Line: A Review of Cultural and Linguistic Influences on the Development of Number Processing"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF CROSS-CULTURAL PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.692433"></attvalue>
+          <attvalue for="v_hub_score" value="0.0440906"></attvalue>
+          <attvalue for="v_keywords" value="COTTON-TOP TAMARINS,SCHOOL-CHILDREN,SPONTANEOUS REPRESENTATION,HUMAN INFANTS,NUMERICAL COGNITION,GERSTMANN-SYNDROME,ARITHMETIC FACTS,PARIETAL CORTEX,DOUBLE DISSOCIATION,DEVELOPMENTAL DYSCALCULIA"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00603751"></attvalue>
+        </attvalues>
+        <viz:size value="32.14946"></viz:size>
+        <viz:position x="511.30692" y="345.84912" z="0.0"></viz:position>
+        <viz:color r="149" g="126" b="175"></viz:color>
+      </node>
+      <node id="n187" label="Landy 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000334603600001"></attvalue>
+          <attvalue for="v_publication_date" value="APR 21"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="A perceptual account of symbolic reasoning"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.141977"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="CORTEX,DISTANCE,NUMBER,JUDGMENTS,DYSCALCULIA,NUMEROSITY,EVENT-RELATED FMRI,PARIETAL ACTIVATION,NONSYMBOLIC MAGNITUDE,CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="4.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00281098"></attvalue>
+        </attvalues>
+        <viz:size value="4.470957"></viz:size>
+        <viz:position x="534.6118" y="308.60422" z="0.0"></viz:position>
+        <viz:color r="221" g="194" b="99"></viz:color>
+      </node>
+      <node id="n188" label="Norman 2006">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000240862700011"></attvalue>
+          <attvalue for="v_publication_date" value="SEP"></attvalue>
+          <attvalue for="v_publication_year" value="2006.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="620.0"></attvalue>
+          <attvalue for="v_title" value="Beyond mind-reading: multi-voxel pattern analysis of fMRI data"></attvalue>
+          <attvalue for="v_source" value="TRENDS IN COGNITIVE SCIENCES"></attvalue>
+          <attvalue for="v_authority_score" value="0.00270051"></attvalue>
+          <attvalue for="v_hub_score" value="0.00487631"></attvalue>
+          <attvalue for="v_keywords" value="CORTICAL SURFACE,HUMAN CEREBRAL-CORTEX,COORDINATE SYSTEM,ATROPHY,SEGMENTATION,MAGNETIC-RESONANCE IMAGES,MILD COGNITIVE IMPAIRMENT,SURFACE-BASED ANALYSIS,MRI,GEOMETRICALLY ACCURATE"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00342236"></attvalue>
+        </attvalues>
+        <viz:size value="9.715626"></viz:size>
+        <viz:position x="542.91833" y="293.74496" z="0.0"></viz:position>
+        <viz:color r="208" g="181" b="114"></viz:color>
+      </node>
+      <node id="n198" label="Kagan 2008">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000261054900004"></attvalue>
+          <attvalue for="v_publication_date" value="NOV-DEC"></attvalue>
+          <attvalue for="v_publication_year" value="2008.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="28.0"></attvalue>
+          <attvalue for="v_title" value="In Defense of Qualitative Changes in Development"></attvalue>
+          <attvalue for="v_source" value="CHILD DEVELOPMENT"></attvalue>
+          <attvalue for="v_authority_score" value="0.0671279"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="AUDITORY SCENE ANALYSIS,BY-ONE ADDITION,RHESUS-MONKEYS,STARLINGS STURNUS-VULGARIS,PREFRONTAL CORTEX,NUMBER REPRESENTATION,SHORT-TERM-MEMORY,NUMERICAL INFORMATION,SQUIRREL-MONKEYS,CHIMPANZEES PAN-TROGLODYTES"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00515126"></attvalue>
+        </attvalues>
+        <viz:size value="24.546846"></viz:size>
+        <viz:position x="566.9001" y="244.27583" z="0.0"></viz:position>
+        <viz:color r="169" g="145" b="154"></viz:color>
+      </node>
+      <node id="n203" label="Passolunghi 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000344791200007"></attvalue>
+          <attvalue for="v_publication_date" value="DEC"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="The contribution of general cognitive abilities and approximate number system to early mathematics"></attvalue>
+          <attvalue for="v_source" value="BRITISH JOURNAL OF EDUCATIONAL PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.00223833"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="WORKING-MEMORY,SHORT-TERM-MEMORY,CONCEPTUAL KNOWLEDGE,LEARNING-DISABLED CHILDREN,ACADEMIC-ACHIEVEMENT,MATHEMATICAL DISABILITIES,NUMBER SENSE,YOUNG-CHILDREN,MATH DIFFICULTIES,ARITHMETIC WORD-PROBLEMS"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00523411"></attvalue>
+        </attvalues>
+        <viz:size value="25.257566"></viz:size>
+        <viz:position x="598.2489" y="152.13364" z="0.0"></viz:position>
+        <viz:color r="167" g="143" b="156"></viz:color>
+      </node>
+      <node id="n207" label="Titeca 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000341546300012"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Preschool predictors of mathematics in first grade children with autism spectrum disorder"></attvalue>
+          <attvalue for="v_source" value="RESEARCH IN DEVELOPMENTAL DISABILITIES"></attvalue>
+          <attvalue for="v_authority_score" value="0.00364306"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="PERCEIVED NUMEROSITY,ANALOG MAGNITUDES,COTTON-TOP TAMARINS,RHESUS-MONKEYS,QUANTITY DISCRIMINATION,FEMALE MOSQUITOFISH,NUMERICAL COMPETENCE,JUDGMENTS,INFANTS,REPRESENTATIONS"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00551356"></attvalue>
+        </attvalues>
+        <viz:size value="27.6548"></viz:size>
+        <viz:position x="610.7078" y="89.90169" z="0.0"></viz:position>
+        <viz:color r="160" g="137" b="163"></viz:color>
+      </node>
+      <node id="n208" label="Kallai 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000337803400004"></attvalue>
+          <attvalue for="v_publication_date" value="JUL"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Decimals Are Not Processed Automatically, Not Even as Being Smaller Than One"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION"></attvalue>
+          <attvalue for="v_authority_score" value="0.139845"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="FUNCTIONAL MRI,INTERFERENCE,QUANTITY,NUMBER,REPRESENTATION,PERCEPTION,MAGNITUDE,SPACE"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00425416"></attvalue>
+        </attvalues>
+        <viz:size value="16.85115"></viz:size>
+        <viz:position x="616.192" y="36.793613" z="0.0"></viz:position>
+        <viz:color r="189" g="163" b="133"></viz:color>
+      </node>
+      <node id="n209" label="Smith 1999">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000079102800033"></attvalue>
+          <attvalue for="v_publication_date" value="MAR 12"></attvalue>
+          <attvalue for="v_publication_year" value="1999.0"></attvalue>
+          <attvalue for="v_subject_category" value="Science &amp; Technology - Other Topics"></attvalue>
+          <attvalue for="v_times_cited" value="1451.0"></attvalue>
+          <attvalue for="v_title" value="Neuroscience - Storage and executive processes in the frontal lobes"></attvalue>
+          <attvalue for="v_source" value="SCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.00764188"></attvalue>
+          <attvalue for="v_hub_score" value="0.00797403"></attvalue>
+          <attvalue for="v_keywords" value="PSYCHOMETRIC FUNCTION,REPRESENTATION,POSTERIOR PARIETAL CORTEX,COMMON,INTRAPARIETAL SULCUS,VISUAL-PERCEPTION,MAGNITUDE,COMPRESSION,EYE-MOVEMENTS,SPACE"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.0030294"></attvalue>
+        </attvalues>
+        <viz:size value="6.344655"></viz:size>
+        <viz:position x="617.22424" y="8.980153" z="0.0"></viz:position>
+        <viz:color r="216" g="189" b="104"></viz:color>
+      </node>
+      <node id="n216" label="Vanbinst 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000341546300039"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Arithmetic strategy development and its domain-specific and domain-general cognitive correlates: A longitudinal study in children with persistent mathematical learning difficulties"></attvalue>
+          <attvalue for="v_source" value="RESEARCH IN DEVELOPMENTAL DISABILITIES"></attvalue>
+          <attvalue for="v_authority_score" value="0.180298"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="BRAIN,COMPLEX MENTAL CALCULATION,ATTENTION,FACTS,PARIETAL CORTEX,RETRIEVAL"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00372502"></attvalue>
+        </attvalues>
+        <viz:size value="12.311965"></viz:size>
+        <viz:position x="617.144" y="-13.40642" z="0.0"></viz:position>
+        <viz:color r="201" g="175" b="121"></viz:color>
+      </node>
+      <node id="n220" label="Chen 2010">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000276599400004"></attvalue>
+          <attvalue for="v_publication_date" value="MAY"></attvalue>
+          <attvalue for="v_publication_year" value="2010.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="20.0"></attvalue>
+          <attvalue for="v_title" value="Beyond the mental number line: A neural network model of number-space interactions"></attvalue>
+          <attvalue for="v_source" value="COGNITIVE PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.903322"></attvalue>
+          <attvalue for="v_hub_score" value="0.0339565"></attvalue>
+          <attvalue for="v_keywords" value="SITUATION MODELS,SENTENCE COMPREHENSION,MEMORY,CONCEPTUAL KNOWLEDGE,NUMBER MAGNITUDE,SYSTEMS,METAPHORS,REPRESENTATIONS,SPACE,LANGUAGE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00282517"></attvalue>
+        </attvalues>
+        <viz:size value="4.5926843"></viz:size>
+        <viz:position x="616.37024" y="-33.676327" z="0.0"></viz:position>
+        <viz:color r="221" g="193" b="99"></viz:color>
+      </node>
+      <node id="n225" label="Chetland 2007">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000244546200003"></attvalue>
+          <attvalue for="v_publication_date" value="JAN-FEB"></attvalue>
+          <attvalue for="v_publication_year" value="2007.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="5.0"></attvalue>
+          <attvalue for="v_title" value="Children's performance on the 'give x' task: A microgenetic analysis of 'counting' and 'grabbing' behaviour"></attvalue>
+          <attvalue for="v_source" value="INFANT AND CHILD DEVELOPMENT"></attvalue>
+          <attvalue for="v_authority_score" value="0.00307059"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="SCALE,REPRESENTATION,PARIETAL LOBES,LINE,COGNITION,MAGNITUDE,MULTI-DIGIT NUMBERS,NEURAL MODEL,SNARC"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00278887"></attvalue>
+        </attvalues>
+        <viz:size value="4.281285"></viz:size>
+        <viz:position x="615.69763" y="-44.30369" z="0.0"></viz:position>
+        <viz:color r="222" g="194" b="99"></viz:color>
+      </node>
+      <node id="n226" label="Desoete 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000312520100043"></attvalue>
+          <attvalue for="v_publication_date" value="JAN"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="2.0"></attvalue>
+          <attvalue for="v_title" value="Cognitive phenotype of mathematical learning disabilities: What can we learn from siblings?"></attvalue>
+          <attvalue for="v_source" value="RESEARCH IN DEVELOPMENTAL DISABILITIES"></attvalue>
+          <attvalue for="v_authority_score" value="0.211629"></attvalue>
+          <attvalue for="v_hub_score" value="3.5663E-4"></attvalue>
+          <attvalue for="v_keywords" value="WORKING-MEMORY,DISABILITIES,CAPACITIES,MATHEMATICS,NEUROPSYCHOLOGY,SKILLS"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00441592"></attvalue>
+        </attvalues>
+        <viz:size value="18.23879"></viz:size>
+        <viz:position x="613.16876" y="-71.20703" z="0.0"></viz:position>
+        <viz:color r="185" g="160" b="137"></viz:color>
+      </node>
+      <node id="n237" label="Wong 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000328808800004"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Single-digit Arabic numbers do not automatically activate magnitude representations in adults or in children: Evidence from the symbolic same-different task"></attvalue>
+          <attvalue for="v_source" value="ACTA PSYCHOLOGICA"></attvalue>
+          <attvalue for="v_authority_score" value="0.132459"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="UNCERTAINTY,BRAIN,DELAYED REWARDS,PREFRONTAL CORTEX AREA-10,CHOICE,PREFERENCE,SELF-CONTROL,FMRI,REPRESENTATIONS,MAGNITUDE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00304065"></attvalue>
+        </attvalues>
+        <viz:size value="6.44116"></viz:size>
+        <viz:position x="609.0482" y="-100.53204" z="0.0"></viz:position>
+        <viz:color r="216" g="189" b="105"></viz:color>
+      </node>
+      <node id="n239" label="Cabeza 2000">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000086144200001"></attvalue>
+          <attvalue for="v_publication_date" value="JAN"></attvalue>
+          <attvalue for="v_publication_year" value="2000.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="2014.0"></attvalue>
+          <attvalue for="v_title" value="Imaging cognition II: An empirical review of 275 PET and fMRI studies"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF COGNITIVE NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.0435279"></attvalue>
+          <attvalue for="v_hub_score" value="0.0149458"></attvalue>
+          <attvalue for="v_keywords" value="NUMERACY,INDIVIDUAL-DIFFERENCES,WORKING-MEMORY,ACHIEVEMENT,INEQUALITY,KNOWLEDGE,INSTRUCTION,MATHEMATICS,ABILITIES,DEVELOPMENTAL DYSCALCULIA"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00457002"></attvalue>
+        </attvalues>
+        <viz:size value="19.560728"></viz:size>
+        <viz:position x="603.19086" y="-131.17622" z="0.0"></viz:position>
+        <viz:color r="182" g="157" b="141"></viz:color>
+      </node>
+      <node id="n248" label="Lambrechts 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000331573300001"></attvalue>
+          <attvalue for="v_publication_date" value="DEC 10"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Age does not count: resilience of quantity processing in healthy ageing"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.221538"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="SIZE,INTERFERENCE,REPRESENTATION,NUMBER MAGNITUDE,PERCEPTION,BISECTION,SPACE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00414501"></attvalue>
+        </attvalues>
+        <viz:size value="15.914814"></viz:size>
+        <viz:position x="592.7178" y="-172.4298" z="0.0"></viz:position>
+        <viz:color r="191" g="166" b="131"></viz:color>
+      </node>
+      <node id="n249" label="Mainela-arnold 2011">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000285827300003"></attvalue>
+          <attvalue for="v_publication_date" value="JAN 1"></attvalue>
+          <attvalue for="v_publication_year" value="2011.0"></attvalue>
+          <attvalue for="v_subject_category" value="Linguistics; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="2.0"></attvalue>
+          <attvalue for="v_title" value="Knowledge of Mathematical Equivalence in Children With Specific Language Impairment: Insights From Gesture and Speech"></attvalue>
+          <attvalue for="v_source" value="LANGUAGE SPEECH AND HEARING SERVICES IN SCHOOLS"></attvalue>
+          <attvalue for="v_authority_score" value="0.128749"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="SIZE,PARIETAL-LOBE,INTERFERENCE,ARABIC NUMERALS,HUMAN INFANTS,NUMBER REPRESENTATION,INTRAPARIETAL SULCUS,MAGNITUDE,DEVELOPMENTAL DYSCALCULIA,SPACE"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00275947"></attvalue>
+        </attvalues>
+        <viz:size value="4.029079"></viz:size>
+        <viz:position x="585.5888" y="-195.27448" z="0.0"></viz:position>
+        <viz:color r="222" g="195" b="98"></viz:color>
+      </node>
+      <node id="n251" label="Papeo 2012">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000305855500002"></attvalue>
+          <attvalue for="v_publication_date" value="JUN"></attvalue>
+          <attvalue for="v_publication_year" value="2012.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="6.0"></attvalue>
+          <attvalue for="v_title" value="A cross-talk between brain-damage patients and infants on action and language"></attvalue>
+          <attvalue for="v_source" value="NEUROPSYCHOLOGIA"></attvalue>
+          <attvalue for="v_authority_score" value="0.0220899"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="ENUMERATION,CLASSIFICATION,BRAIN,ATTENTION,SEPARATE,REPRESENTATION,TASKS,NUMEROSITY"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00306351"></attvalue>
+        </attvalues>
+        <viz:size value="6.6372604"></viz:size>
+        <viz:position x="565.323" y="-247.90384" z="0.0"></viz:position>
+        <viz:color r="216" g="188" b="105"></viz:color>
+      </node>
+      <node id="n254" label="Davis 2009">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000271220000002"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2009.0"></attvalue>
+          <attvalue for="v_subject_category" value="Radiology, Nuclear Medicine &amp; Medical Imaging"></attvalue>
+          <attvalue for="v_times_cited" value="14.0"></attvalue>
+          <attvalue for="v_title" value="The neural correlates of calculation ability in children: an fMRI study"></attvalue>
+          <attvalue for="v_source" value="MAGNETIC RESONANCE IMAGING"></attvalue>
+          <attvalue for="v_authority_score" value="0.454158"></attvalue>
+          <attvalue for="v_hub_score" value="0.00100607"></attvalue>
+          <attvalue for="v_keywords" value="NUMBER CONCEPTS,CONNECTIONISM,NUMERICAL ABILITIES,MODEL"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00385458"></attvalue>
+        </attvalues>
+        <viz:size value="13.423385"></viz:size>
+        <viz:position x="555.22797" y="-269.75598" z="0.0"></viz:position>
+        <viz:color r="198" g="172" b="124"></viz:color>
+      </node>
+      <node id="n258" label="Naccache 2001">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000171228600008"></attvalue>
+          <attvalue for="v_publication_date" value="OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2001.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="234.0"></attvalue>
+          <attvalue for="v_title" value="The priming method: Imaging unconscious repetition priming reveals an abstract representation of number in the parietal lobes"></attvalue>
+          <attvalue for="v_source" value="CEREBRAL CORTEX"></attvalue>
+          <attvalue for="v_authority_score" value="0.125451"></attvalue>
+          <attvalue for="v_hub_score" value="0.176529"></attvalue>
+          <attvalue for="v_keywords" value="PERCEIVED NUMEROSITY,QUANTITY,INDIVIDUAL-DIFFERENCES,HUMAN INFANTS,PRIMATE PREFRONTAL CORTEX,REPRESENTATION,DISCRIMINATION,PARIETAL CORTEX,MAGNITUDE,SPACE"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.0045713"></attvalue>
+        </attvalues>
+        <viz:size value="19.571709"></viz:size>
+        <viz:position x="536.7954" y="-304.7902" z="0.0"></viz:position>
+        <viz:color r="182" g="157" b="141"></viz:color>
+      </node>
+      <node id="n266" label="Rotzer 2009">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000271067100020"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2009.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="35.0"></attvalue>
+          <attvalue for="v_title" value="Dysfunctional neural network of spatial working memory contributes to developmental dyscalculia"></attvalue>
+          <attvalue for="v_source" value="NEUROPSYCHOLOGIA"></attvalue>
+          <attvalue for="v_authority_score" value="0.243484"></attvalue>
+          <attvalue for="v_hub_score" value="0.0374803"></attvalue>
+          <attvalue for="v_keywords" value="DURATION COMPARISONS,NUMBER,DISCRIMINATION,PARIETAL CORTEX,FMRI,INTRAPARIETAL SULCUS,SYSTEMS,PERCEPTION,BRAIN ACTIVATION,YOUNG-CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00321453"></attvalue>
+        </attvalues>
+        <viz:size value="7.9327755"></viz:size>
+        <viz:position x="519.73944" y="-333.04245" z="0.0"></viz:position>
+        <viz:color r="212" g="185" b="109"></viz:color>
+      </node>
+      <node id="n274" label="Troiani 2011">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000288149000003"></attvalue>
+          <attvalue for="v_publication_date" value="MAR"></attvalue>
+          <attvalue for="v_publication_year" value="2011.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology; Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="Impaired Verbal Comprehension of Quantifiers in Corticobasal Syndrome"></attvalue>
+          <attvalue for="v_source" value="NEUROPSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.174235"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="ENUMERATION,SIZE,QUANTITY,REPRESENTATION,DISCRIMINATION,ADULTS,NUMEROSITY,CORE SYSTEMS,CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00290821"></attvalue>
+        </attvalues>
+        <viz:size value="5.305034"></viz:size>
+        <viz:position x="510.9978" y="-346.30573" z="0.0"></viz:position>
+        <viz:color r="219" g="192" b="101"></viz:color>
+      </node>
+      <node id="n277" label="Willmes 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000337518200004"></attvalue>
+          <attvalue for="v_publication_date" value="JUN"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Where numbers meet words: A common ventral network for semantic classification"></attvalue>
+          <attvalue for="v_source" value="SCANDINAVIAN JOURNAL OF PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.322393"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="INDIVIDUAL-DIFFERENCES,HUMAN INFANTS,NUMERICAL ABILITIES,AMAZONIAN INDIGENE GROUP,APPROXIMATE NUMBER,PARIETAL CORTEX,INTRAPARIETAL SULCUS,MAGNITUDE REPRESENTATION,DEVELOPMENTAL DYSCALCULIA,CORE KNOWLEDGE"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00450066"></attvalue>
+        </attvalues>
+        <viz:size value="18.96573"></viz:size>
+        <viz:position x="494.0958" y="-370.02124" z="0.0"></viz:position>
+        <viz:color r="183" g="158" b="139"></viz:color>
+      </node>
+      <node id="n278" label="Kesler 2006">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000237525900008"></attvalue>
+          <attvalue for="v_publication_date" value="JUN"></attvalue>
+          <attvalue for="v_publication_year" value="2006.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="36.0"></attvalue>
+          <attvalue for="v_title" value="Neurofunctional differences associated with arithmetic processing in turner syndrome"></attvalue>
+          <attvalue for="v_source" value="CEREBRAL CORTEX"></attvalue>
+          <attvalue for="v_authority_score" value="0.249042"></attvalue>
+          <attvalue for="v_hub_score" value="0.010522"></attvalue>
+          <attvalue for="v_keywords" value="SEMANTICS,QUANTITY,NUMBER,NATURAL-LANGUAGE,MASS NOUNS,SEARCH,COUNT,QUANTIFIERS,COGNITION,DISTINCTION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00550993"></attvalue>
+        </attvalues>
+        <viz:size value="27.623665"></viz:size>
+        <viz:position x="458.60406" y="-413.1933" z="0.0"></viz:position>
+        <viz:color r="160" g="137" b="163"></viz:color>
+      </node>
+      <node id="n279" label="Rusconi 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000314363200011"></attvalue>
+          <attvalue for="v_publication_date" value="MAR"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="Critical Time Course of Right Frontoparietal Involvement in Mental Number Space"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF COGNITIVE NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.515161"></attvalue>
+          <attvalue for="v_hub_score" value="0.015719"></attvalue>
+          <attvalue for="v_keywords" value="REPRESENTATION,TIME,NUMBER DISCRIMINATION,YOUNG INFANTS,PERCEPTION,CATEGORIZATION,MAGNITUDE,BISECTION,SPATIAL RELATIONS,6-MONTH-OLD INFANTS"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00448574"></attvalue>
+        </attvalues>
+        <viz:size value="18.837742"></viz:size>
+        <viz:position x="419.4658" y="-452.87396" z="0.0"></viz:position>
+        <viz:color r="184" g="159" b="139"></viz:color>
+      </node>
+      <node id="n289" label="Gray 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000334160900131"></attvalue>
+          <attvalue for="v_publication_date" value="APR 8"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Science &amp; Technology - Other Topics"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Preschoolers' Dot Enumeration Abilities Are Markers of Their Arithmetic Competence"></attvalue>
+          <attvalue for="v_source" value="PLOS ONE"></attvalue>
+          <attvalue for="v_authority_score" value="0.107052"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="COUNTING PRINCIPLES,OBJECT PERMANENCE,CONVERGING EVIDENCE,4.5-MONTH-OLD INFANTS,AMBIGUOUS MOTION EVENTS,LARGE-NUMBER DISCRIMINATION,YOUNG INFANTS,5-MONTH-OLD INFANTS,SPATIAL RELATIONS,6-MONTH-OLD INFANTS"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00405063"></attvalue>
+        </attvalues>
+        <viz:size value="15.105186"></viz:size>
+        <viz:position x="388.69202" y="-479.54657" z="0.0"></viz:position>
+        <viz:color r="193" g="168" b="128"></viz:color>
+      </node>
+      <node id="n291" label="Leikin 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000334692000003"></attvalue>
+          <attvalue for="v_publication_date" value="MAR"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Brain activity associated with translation from a visual to a symbolic representation in algebra and geometry"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF INTEGRATIVE NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.169789"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="OSCILLATIONS,WORKING-MEMORY,VISUOSPATIAL ATTENTION,ACTIVATION,SUBTRACTION,PARIETAL CORTEX,MODULARITY,COGNITION,EVENT-RELATED FMRI,NETWORK MODEL"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00421755"></attvalue>
+        </attvalues>
+        <viz:size value="16.537098"></viz:size>
+        <viz:position x="358.4776" y="-502.53378" z="0.0"></viz:position>
+        <viz:color r="190" g="164" b="132"></viz:color>
+      </node>
+      <node id="n292" label="Martin 2007">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review; Book Chapter"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000243900200002"></attvalue>
+          <attvalue for="v_publication_year" value="2007.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="557.0"></attvalue>
+          <attvalue for="v_title" value="The representation of object concepts in the brain"></attvalue>
+          <attvalue for="v_source" value="ANNUAL REVIEW OF PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.170698"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="1ST,STUDENTS,ACHIEVEMENT,PERSPECTIVES"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00634617"></attvalue>
+        </attvalues>
+        <viz:size value="34.79728"></viz:size>
+        <viz:position x="306.62787" y="-535.7478" z="0.0"></viz:position>
+        <viz:color r="142" g="120" b="182"></viz:color>
+      </node>
+      <node id="n294" label="Tang 2006">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000239047400043"></attvalue>
+          <attvalue for="v_publication_date" value="JUL 11"></attvalue>
+          <attvalue for="v_publication_year" value="2006.0"></attvalue>
+          <attvalue for="v_subject_category" value="Science &amp; Technology - Other Topics"></attvalue>
+          <attvalue for="v_times_cited" value="108.0"></attvalue>
+          <attvalue for="v_title" value="Arithmetic processing in the brain shaped by cultures"></attvalue>
+          <attvalue for="v_source" value="PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA"></attvalue>
+          <attvalue for="v_authority_score" value="0.188714"></attvalue>
+          <attvalue for="v_hub_score" value="0.125233"></attvalue>
+          <attvalue for="v_keywords" value="NUMBERS,PREFRONTAL CORTEX,RTMS,DISSOCIATION,SYMBOLIC DISTANCE,HUMANS,INTRAPARIETAL SULCUS,TMS,NUMEROSITY,TRANSCRANIAL MAGNETIC STIMULATION"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.0043146"></attvalue>
+        </attvalues>
+        <viz:size value="17.369633"></viz:size>
+        <viz:position x="250.81456" y="-564.03766" z="0.0"></viz:position>
+        <viz:color r="187" g="162" b="135"></viz:color>
+      </node>
+      <node id="n296" label="Pepperberg 2012">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000309949300008"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2012.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="8.0"></attvalue>
+          <attvalue for="v_title" value="Grey parrot number acquisition: The inference of cardinal value from ordinal position on the numeral list"></attvalue>
+          <attvalue for="v_source" value="COGNITION"></attvalue>
+          <attvalue for="v_authority_score" value="0.186901"></attvalue>
+          <attvalue for="v_hub_score" value="0.00926062"></attvalue>
+          <attvalue for="v_keywords" value="DOMAIN,STUDENTS,DEFICITS,DISABILITY,ACHIEVEMENT,DIFFICULTIES,RISK,NUMBER SENSE,YOUNG-CHILDREN,KINDERGARTEN"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00370941"></attvalue>
+        </attvalues>
+        <viz:size value="12.178062"></viz:size>
+        <viz:position x="218.02028" y="-577.5063" z="0.0"></viz:position>
+        <viz:color r="201" g="175" b="120"></viz:color>
+      </node>
+      <node id="n298" label="Hoffmann 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000329862500208"></attvalue>
+          <attvalue for="v_publication_date" value="JAN 8"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Science &amp; Technology - Other Topics"></attvalue>
+          <attvalue for="v_times_cited" value="2.0"></attvalue>
+          <attvalue for="v_title" value="The Impact of Mathematical Proficiency on the Number-Space Association"></attvalue>
+          <attvalue for="v_source" value="PLOS ONE"></attvalue>
+          <attvalue for="v_authority_score" value="0.518181"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="COMPARATIVE JUDGMENTS,REPRESENTATIONS,MAGNITUDE,TASK"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00788583"></attvalue>
+        </attvalues>
+        <viz:size value="48.005108"></viz:size>
+        <viz:position x="149.11855" y="-599.00757" z="0.0"></viz:position>
+        <viz:color r="107" g="87" b="219"></viz:color>
+      </node>
+      <node id="n306" label="Heine 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000324351800014"></attvalue>
+          <attvalue for="v_publication_date" value="SEP"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="An electrophysiological investigation of non-symbolic magnitude processing: Numerical distance effects in children with and without mathematical learning disabilities"></attvalue>
+          <attvalue for="v_source" value="CORTEX"></attvalue>
+          <attvalue for="v_authority_score" value="0.456783"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="QUANTITY,AWARENESS,KNOWLEDGE,DYSCALCULIA,READ,MAGNITUDE"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.0034073"></attvalue>
+        </attvalues>
+        <viz:size value="9.586435"></viz:size>
+        <viz:position x="81.26192" y="-611.91736" z="0.0"></viz:position>
+        <viz:color r="208" g="181" b="113"></viz:color>
+      </node>
+      <node id="n315" label="Varma 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000317946400002"></attvalue>
+          <attvalue for="v_publication_date" value="MAY"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="3.0"></attvalue>
+          <attvalue for="v_title" value="Understanding decimal proportions: Discrete representations, parallel access, and privileged processing of zero"></attvalue>
+          <attvalue for="v_source" value="COGNITIVE PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.245394"></attvalue>
+          <attvalue for="v_hub_score" value="0.00439588"></attvalue>
+          <attvalue for="v_keywords" value="NUMBER REPRESENTATION,ATTENTION,HUMAN VISUAL-CORTEX,COGNITIVE STATES,PARIETAL CORTEX,HUMANS,FMRI,HUMAN INTRAPARIETAL CORTEX,MAGNITUDE"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00324274"></attvalue>
+        </attvalues>
+        <viz:size value="8.174772"></viz:size>
+        <viz:position x="60.089718" y="-614.3579" z="0.0"></viz:position>
+        <viz:color r="212" g="185" b="109"></viz:color>
+      </node>
+      <node id="n317" label="Grill-spector 2006">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000234910400007"></attvalue>
+          <attvalue for="v_publication_date" value="JAN"></attvalue>
+          <attvalue for="v_publication_year" value="2006.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="792.0"></attvalue>
+          <attvalue for="v_title" value="Repetition and the brain: neural models of stimulus-specific effects"></attvalue>
+          <attvalue for="v_source" value="TRENDS IN COGNITIVE SCIENCES"></attvalue>
+          <attvalue for="v_authority_score" value="0.0317486"></attvalue>
+          <attvalue for="v_hub_score" value="0.00555937"></attvalue>
+          <attvalue for="v_keywords" value="BASAL GANGLIA,RHYTHMIC WHISKING,VISUAL-ATTENTION,SOMATOSENSORY PROJECTIONS,SUPERIOR COLLICULUS,MOTOR CORTEX,SCANNING SENSORIMOTOR SYSTEM,CENTRAL PATTERN GENERATOR,EYE-MOVEMENTS,MEDIAL AGRANULAR CORTEX"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00293705"></attvalue>
+        </attvalues>
+        <viz:size value="5.552436"></viz:size>
+        <viz:position x="43.675854" y="-615.7425" z="0.0"></viz:position>
+        <viz:color r="218" g="191" b="102"></viz:color>
+      </node>
+      <node id="n318" label="Jacob 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000340476800020"></attvalue>
+          <attvalue for="v_publication_date" value="JUL 2"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="Complementary Roles for Primate Frontal and Parietal Cortex in Guarding Working Memory from Distractor Stimuli"></attvalue>
+          <attvalue for="v_source" value="NEURON"></attvalue>
+          <attvalue for="v_authority_score" value="0.00300941"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="3RD-GRADE STUDENTS,PREVENTION,NUMBER COMBINATION,COGNITIVE-ABILITIES,DEFICITS,INSTRUCTION,FIELD TRIAL,MATHEMATICS DIFFICULTIES,YOUNG-CHILDREN,READING-DISABILITY"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00357376"></attvalue>
+        </attvalues>
+        <viz:size value="11.014399"></viz:size>
+        <viz:position x="23.826256" y="-616.8295" z="0.0"></viz:position>
+        <viz:color r="204" g="178" b="117"></viz:color>
+      </node>
+      <node id="n326" label="Guida 2012">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000304503800006"></attvalue>
+          <attvalue for="v_publication_date" value="AUG"></attvalue>
+          <attvalue for="v_publication_year" value="2012.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="17.0"></attvalue>
+          <attvalue for="v_title" value="How chunks, long-term working memory and templates offer a cognitive explanation for neuroimaging data on expertise acquisition: A two-stage framework"></attvalue>
+          <attvalue for="v_source" value="BRAIN AND COGNITION"></attvalue>
+          <attvalue for="v_authority_score" value="0.0150084"></attvalue>
+          <attvalue for="v_hub_score" value="0.0049751"></attvalue>
+          <attvalue for="v_keywords" value="MENTAL REPRESENTATION,ORIGIN,ARABIC NUMERALS,PRESCHOOLERS,NUMERICAL ESTIMATION,KNOWLEDGE,DEVELOPMENTAL-CHANGES,PERFORMANCE,MAGNITUDE,CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00642515"></attvalue>
+        </attvalues>
+        <viz:size value="35.474796"></viz:size>
+        <viz:position x="-59.69494" y="-614.39636" z="0.0"></viz:position>
+        <viz:color r="140" g="118" b="184"></viz:color>
+      </node>
+      <node id="n331" label="Cappelletti 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000333627800005"></attvalue>
+          <attvalue for="v_publication_date" value="MAY"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Commonalities for Numerical and Continuous Quantity Skills at Temporo-parietal Junction"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF COGNITIVE NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.273679"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="INFERIOR FRONTAL-CORTEX,EXPERTS,INHIBITION,AREAS,ACTIVATION,MENTAL CALCULATION,FMRI,IMAGERY,MRI"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00352654"></attvalue>
+        </attvalues>
+        <viz:size value="10.6093235"></viz:size>
+        <viz:position x="-128.76216" y="-603.71075" z="0.0"></viz:position>
+        <viz:color r="205" g="179" b="116"></viz:color>
+      </node>
+      <node id="n332" label="Kadosh 2010">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000281560200013"></attvalue>
+          <attvalue for="v_publication_date" value="SEP"></attvalue>
+          <attvalue for="v_publication_year" value="2010.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="32.0"></attvalue>
+          <attvalue for="v_title" value="Double Dissociation of Format-Dependent and Number-Specific Neurons in Human Parietal Cortex"></attvalue>
+          <attvalue for="v_source" value="CEREBRAL CORTEX"></attvalue>
+          <attvalue for="v_authority_score" value="0.266175"></attvalue>
+          <attvalue for="v_hub_score" value="0.00681424"></attvalue>
+          <attvalue for="v_keywords" value="DECISION-THEORY,FUNCTIONAL LOCUS,GRIP,TIME,PARIETAL CORTEX,PERFORMANCE,INFORMATION,REPRESENTATIONS,MAGNITUDE,TASK"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00412723"></attvalue>
+        </attvalues>
+        <viz:size value="15.762295"></viz:size>
+        <viz:position x="-159.52925" y="-596.3194" z="0.0"></viz:position>
+        <viz:color r="192" g="166" b="130"></viz:color>
+      </node>
+      <node id="n338" label="Dennis 2009">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000266550400011"></attvalue>
+          <attvalue for="v_publication_year" value="2009.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Pediatrics; Psychiatry"></attvalue>
+          <attvalue for="v_times_cited" value="5.0"></attvalue>
+          <attvalue for="v_title" value="MATHEMATICAL LEARNING DISABILITIES IN SPECIAL POPULATIONS: PHENOTYPIC VARIATION CROSS-DISORDER COMPARISONS"></attvalue>
+          <attvalue for="v_source" value="DEVELOPMENTAL DISABILITIES RESEARCH REVIEWS"></attvalue>
+          <attvalue for="v_authority_score" value="0.15835"></attvalue>
+          <attvalue for="v_hub_score" value="0.00510999"></attvalue>
+          <attvalue for="v_keywords" value="MENTAL REPRESENTATION,SPATIAL-NUMERICAL ASSOCIATIONS,FUNCTIONAL LOCUS,INDIVIDUAL-DIFFERENCES,WORKING-MEMORY,ARITHMETIC FACTS,MATH ANXIETY,LEARNING-DISABILITIES,DEVELOPMENTAL DYSCALCULIA,ANGULAR GYRUS"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00649657"></attvalue>
+        </attvalues>
+        <viz:size value="36.087475"></viz:size>
+        <viz:position x="-218.72388" y="-577.24023" z="0.0"></viz:position>
+        <viz:color r="138" g="116" b="186"></viz:color>
+      </node>
+      <node id="n341" label="Klein 2010">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000281434500002"></attvalue>
+          <attvalue for="v_publication_date" value="JUL 9"></attvalue>
+          <attvalue for="v_publication_year" value="2010.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="6.0"></attvalue>
+          <attvalue for="v_title" value="On the neuro-cognitive foundations of basic auditory number processing: an fMRI study"></attvalue>
+          <attvalue for="v_source" value="BEHAVIORAL AND BRAIN FUNCTIONS"></attvalue>
+          <attvalue for="v_authority_score" value="0.576104"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="SINGLE-DIGIT ADDITION,HUMAN BRAIN,MENTAL NUMBER LINE,SPATIAL-NUMERICAL ASSOCIATIONS,EVENT-RELATED POTENTIALS,PRIMARY MOTOR CORTEX,WORD RECOGNITION,FUNCTIONAL NEUROIMAGING TELL,TRANSCRANIAL MAGNETIC STIMULATION,FINGER-NUMERAL CONFIGURATIONS"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00299111"></attvalue>
+        </attvalues>
+        <viz:size value="6.0161867"></viz:size>
+        <viz:position x="-274.09845" y="-553.0971" z="0.0"></viz:position>
+        <viz:color r="217" g="190" b="103"></viz:color>
+      </node>
+      <node id="n342" label="Prado 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000318895000001"></attvalue>
+          <attvalue for="v_publication_date" value="MAY 13"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="The neural bases of the multiplication problem-size effect across countries"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN HUMAN NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.3298"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="DECIMALS,LINE,FRACTIONS,MATHEMATICS,REAL,INFORMATION,WHOLE NUMBER,JUDGMENT"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00437864"></attvalue>
+        </attvalues>
+        <viz:size value="17.918991"></viz:size>
+        <viz:position x="-299.52786" y="-539.74945" z="0.0"></viz:position>
+        <viz:color r="186" g="161" b="136"></viz:color>
+      </node>
+      <node id="n343" label="De smedt 2009">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000266550400002"></attvalue>
+          <attvalue for="v_publication_year" value="2009.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Pediatrics; Psychiatry"></attvalue>
+          <attvalue for="v_times_cited" value="13.0"></attvalue>
+          <attvalue for="v_title" value="MATHEMATICAL LEARNING DISABILITIES IN CHILDREN WITH 22Q11.2 DELETION SYNDROME: A REVIEW"></attvalue>
+          <attvalue for="v_source" value="DEVELOPMENTAL DISABILITIES RESEARCH REVIEWS"></attvalue>
+          <attvalue for="v_authority_score" value="0.162563"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="BRAIN,INDIVIDUAL-DIFFERENCES,NUMBER,PARIETAL CORTEX,INTRAPARIETAL SULCUS,MATHEMATICAL COMPETENCE,SEMANTIC DEMENTIA,CHILDREN,DEVELOPMENTAL DYSCALCULIA,ANGULAR GYRUS"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00772685"></attvalue>
+        </attvalues>
+        <viz:size value="46.64132"></viz:size>
+        <viz:position x="-364.73508" y="-498.01077" z="0.0"></viz:position>
+        <viz:color r="110" g="91" b="215"></viz:color>
+      </node>
+      <node id="n355" label="Charles 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000330360700010"></attvalue>
+          <attvalue for="v_publication_date" value="JAN 22"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Decoding the Dynamics of Action, Intention, and Error Detection for Conscious and Subliminal Stimuli"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.155129"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="COUNTING PRINCIPLES,INDIVIDUAL-DIFFERENCES,ACQUISITION,NONSYMBOLIC NUMBER,PRESCHOOLERS,DISCRIMINATION,INFANTS,DYSCALCULIA,MATHEMATICS,REPRESENTATIONS"></attvalue>
+          <attvalue for="v_keyword_count" value="4.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00429137"></attvalue>
+        </attvalues>
+        <viz:size value="17.170351"></viz:size>
+        <viz:position x="-444.81677" y="-428.0005" z="0.0"></viz:position>
+        <viz:color r="188" g="163" b="134"></viz:color>
+      </node>
+      <node id="n356" label="Pearson 2010">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000208454700001"></attvalue>
+          <attvalue for="v_publication_year" value="2010.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="6.0"></attvalue>
+          <attvalue for="v_title" value="A physiologically-inspired model of numerical classification based on graded stimulus coding"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN BEHAVIORAL NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.160376"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="MATHEMATICS ACHIEVEMENT,MODEL,INCOME PRESCHOOLERS,NUMERICAL ESTIMATION,FRACTIONS,KNOWLEDGE,PERFORMANCE,MAGNITUDE,YOUNG-CHILDREN,PSYCHOPHYSICS"></attvalue>
+          <attvalue for="v_keyword_count" value="3.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00300137"></attvalue>
+        </attvalues>
+        <viz:size value="6.1042023"></viz:size>
+        <viz:position x="-463.71997" y="-407.44348" z="0.0"></viz:position>
+        <viz:color r="217" g="190" b="104"></viz:color>
+      </node>
+      <node id="n358" label="Lindskog 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000331193400001"></attvalue>
+          <attvalue for="v_publication_date" value="AUG 6"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="4.0"></attvalue>
+          <attvalue for="v_title" value="Measuring acuity of the approximate number system reliably and validly: the evaluation of an adaptive test procedure"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.402582"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="CONFIDENCE,PERCEPTUAL HYSTERESIS,DECISION-MAKING,TIME,ACUITY,INFANTS,FEEDBACK,PERFORMANCE,NUMEROSITY,SENSE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00358433"></attvalue>
+        </attvalues>
+        <viz:size value="11.10507"></viz:size>
+        <viz:position x="-477.08878" y="-391.70486" z="0.0"></viz:position>
+        <viz:color r="204" g="177" b="117"></viz:color>
+      </node>
+      <node id="n369" label="Patro 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000336035900001"></attvalue>
+          <attvalue for="v_publication_date" value="MAY 14"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="How number-space relationships are assessed before formal schooling: A taxonomy proposal"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN PSYCHOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.307292"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="QUANTITY,BIRTH,NUMERICAL COGNITION,POSTERIOR PARIETAL CORTEX,HUMANS,THINK,PERCEPTION,METAPHORS,MAGNITUDE,NEWBORN-INFANTS"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00360851"></attvalue>
+        </attvalues>
+        <viz:size value="11.312494"></viz:size>
+        <viz:position x="-493.70065" y="-370.5483" z="0.0"></viz:position>
+        <viz:color r="203" g="177" b="118"></viz:color>
+      </node>
+      <node id="n372" label="Rykhlevskaia 2009">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000274619300007"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2009.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="36.0"></attvalue>
+          <attvalue for="v_title" value="Neuroanatomical correlates of developmental dyscalculia: combined evidence from morphometry and tractography"></attvalue>
+          <attvalue for="v_source" value="FRONTIERS IN HUMAN NEUROSCIENCE"></attvalue>
+          <attvalue for="v_authority_score" value="0.176383"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="BRAIN,UNITS,NUMERICAL COGNITION,REPRESENTATION,WORDS,LINE,HYPOTHESIS,MAGNITUDE,2-DIGIT NUMBERS,LANGUAGE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00420243"></attvalue>
+        </attvalues>
+        <viz:size value="16.407387"></viz:size>
+        <viz:position x="-512.9421" y="-343.4193" z="0.0"></viz:position>
+        <viz:color r="190" g="165" b="132"></viz:color>
+      </node>
+      <node id="n373" label="De hevia 2008">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article; Proceedings Paper"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000260718800004"></attvalue>
+          <attvalue for="v_publication_date" value="OCT"></attvalue>
+          <attvalue for="v_publication_year" value="2008.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="41.0"></attvalue>
+          <attvalue for="v_title" value="Visualizing numbers in the mind's eye: The role of visuo-spatial processes in numerical abilities"></attvalue>
+          <attvalue for="v_source" value="NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS"></attvalue>
+          <attvalue for="v_authority_score" value="1.0"></attvalue>
+          <attvalue for="v_hub_score" value="0.0722669"></attvalue>
+          <attvalue for="v_keywords" value="ENGLISH BILINGUALS,EVENT-RELATED POTENTIALS,BRAIN,MODEL,NUMERICAL COGNITION,ACTIVATION,PARIETAL CORTEX,DYSCALCULIA,MAGNITUDE,CHILDREN"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00456839"></attvalue>
+        </attvalues>
+        <viz:size value="19.546745"></viz:size>
+        <viz:position x="-535.67316" y="-306.7583" z="0.0"></viz:position>
+        <viz:color r="182" g="157" b="141"></viz:color>
+      </node>
+      <node id="n379" label="Cutini 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000329840900016"></attvalue>
+          <attvalue for="v_publication_date" value="FEB"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Number-Space Interactions in the Human Parietal Cortex: Enlightening the SNARC Effect with Functional Near-Infrared Spectroscopy"></attvalue>
+          <attvalue for="v_source" value="CEREBRAL CORTEX"></attvalue>
+          <attvalue for="v_authority_score" value="0.56207"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="SPEED,DURATION,QUANTITY,NUMBERS,INTERVALS,MOTION,PERCEPTION,STIMULI"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00500445"></attvalue>
+        </attvalues>
+        <viz:size value="23.287449"></viz:size>
+        <viz:position x="-559.33105" y="-261.14203" z="0.0"></viz:position>
+        <viz:color r="172" g="148" b="151"></viz:color>
+      </node>
+      <node id="n380" label="Ceulemans 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000328303900004"></attvalue>
+          <attvalue for="v_publication_date" value="JAN"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Enumeration of small and large numerosities in adolescents with mathematical learning disorders"></attvalue>
+          <attvalue for="v_source" value="RESEARCH IN DEVELOPMENTAL DISABILITIES"></attvalue>
+          <attvalue for="v_authority_score" value="0.00515067"></attvalue>
+          <attvalue for="v_hub_score" value="1.14516E-4"></attvalue>
+          <attvalue for="v_keywords" value="PHONOLOGICAL SKILLS,YOUNG,READING DIFFICULTIES,DISABILITIES,IQ,DISCREPANCY,MATHEMATICS DIFFICULTIES,CHILDREN,DEVELOPMENTAL DYSLEXIA,LANGUAGE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00420918"></attvalue>
+        </attvalues>
+        <viz:size value="16.465286"></viz:size>
+        <viz:position x="-577.8223" y="-217.18134" z="0.0"></viz:position>
+        <viz:color r="190" g="164" b="132"></viz:color>
+      </node>
+      <node id="n386" label="Nicolas 2014">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000334826700004"></attvalue>
+          <attvalue for="v_publication_date" value="APR 3"></attvalue>
+          <attvalue for="v_publication_year" value="2014.0"></attvalue>
+          <attvalue for="v_subject_category" value="History &amp; Philosophy of Science; Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Broca and Charcot's Research on Jacques Inaudi: The Psychological and Anthropological Study of a Mental Calculator"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF THE HISTORY OF THE NEUROSCIENCES"></attvalue>
+          <attvalue for="v_authority_score" value="0.158272"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="EXECUTIVE FUNCTIONS,MATHEMATICS ACHIEVEMENT,INDIVIDUAL-DIFFERENCES,EARLY NUMERACY,IDENTIFICATION,MENTAL NUMBER,ABILITIES,LEARNING-DISABILITIES,YOUNG-CHILDREN,SKILLS"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00697036"></attvalue>
+        </attvalues>
+        <viz:size value="40.151833"></viz:size>
+        <viz:position x="-598.1814" y="-152.39886" z="0.0"></viz:position>
+        <viz:color r="127" g="107" b="197"></viz:color>
+      </node>
+      <node id="n389" label="Bueti 2009">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000267281300003"></attvalue>
+          <attvalue for="v_publication_date" value="JUL 12"></attvalue>
+          <attvalue for="v_publication_year" value="2009.0"></attvalue>
+          <attvalue for="v_subject_category" value="Life Sciences &amp; Biomedicine - Other Topics"></attvalue>
+          <attvalue for="v_times_cited" value="151.0"></attvalue>
+          <attvalue for="v_title" value="The parietal cortex and the representation of time, space, number and other magnitudes"></attvalue>
+          <attvalue for="v_source" value="PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES"></attvalue>
+          <attvalue for="v_authority_score" value="0.119747"></attvalue>
+          <attvalue for="v_hub_score" value="0.133501"></attvalue>
+          <attvalue for="v_keywords" value="YUCATEC MAYAS,SPACE-TIME,FUTURE,NUMBER LINE,ENGLISH SPEAKERS THINK,COGNITION,DIMENSIONAL PREPOSITIONS,BORODITSKY 2001,MENTAL TIMELINE,LANGUAGE"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00465964"></attvalue>
+        </attvalues>
+        <viz:size value="20.329527"></viz:size>
+        <viz:position x="-611.9286" y="-81.17765" z="0.0"></viz:position>
+        <viz:color r="180" g="155" b="143"></viz:color>
+      </node>
+      <node id="n392" label="Ashcraft 1992">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:A1992JG78100003"></attvalue>
+          <attvalue for="v_publication_date" value="AUG"></attvalue>
+          <attvalue for="v_publication_year" value="1992.0"></attvalue>
+          <attvalue for="v_subject_category" value="Psychology"></attvalue>
+          <attvalue for="v_times_cited" value="372.0"></attvalue>
+          <attvalue for="v_title" value="COGNITIVE ARITHMETIC - A REVIEW OF DATA AND THEORY"></attvalue>
+          <attvalue for="v_source" value="COGNITION"></attvalue>
+          <attvalue for="v_authority_score" value="0.00589846"></attvalue>
+          <attvalue for="v_hub_score" value="0.114431"></attvalue>
+          <attvalue for="v_keywords" value="MOMENTUM,NUMBER LINE,TIME,MOVEMENTS,MAGNITUDE"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00377891"></attvalue>
+        </attvalues>
+        <viz:size value="12.7742605"></viz:size>
+        <viz:position x="-615.8823" y="-41.657246" z="0.0"></viz:position>
+        <viz:color r="199" g="173" b="122"></viz:color>
+      </node>
+      <node id="n398" label="Mazoyer 2001">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000168044800005"></attvalue>
+          <attvalue for="v_publication_date" value="FEB"></attvalue>
+          <attvalue for="v_publication_year" value="2001.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="481.0"></attvalue>
+          <attvalue for="v_title" value="Cortical networks for working memory and executive functions sustain the conscious resting state in man"></attvalue>
+          <attvalue for="v_source" value="BRAIN RESEARCH BULLETIN"></attvalue>
+          <attvalue for="v_authority_score" value="0.00630175"></attvalue>
+          <attvalue for="v_hub_score" value="7.15724E-4"></attvalue>
+          <attvalue for="v_keywords" value="PERCEIVED NUMEROSITY,SIZE,COMPUTATION,REPRESENTATION,HUMAN-VISION,DISCRIMINATION,APPROXIMATE NUMBER,DENSITY ADAPTATION,COMMON,RELATIVE NUMEROSITY"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.0064432"></attvalue>
+        </attvalues>
+        <viz:size value="35.62964"></viz:size>
+        <viz:position x="-617.07184" y="16.393824" z="0.0"></viz:position>
+        <viz:color r="139" g="118" b="185"></viz:color>
+      </node>
+      <node id="n410" label="Stancher 2015">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000347249100019"></attvalue>
+          <attvalue for="v_publication_date" value="JAN"></attvalue>
+          <attvalue for="v_publication_year" value="2015.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Zoology"></attvalue>
+          <attvalue for="v_times_cited" value="0.0"></attvalue>
+          <attvalue for="v_title" value="Numerical discrimination by frogs (Bombina orientalis)"></attvalue>
+          <attvalue for="v_source" value="ANIMAL COGNITION"></attvalue>
+          <attvalue for="v_authority_score" value="0.212286"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="BOARD GAMES,PREEXPOSURE,INDIVIDUAL-DIFFERENCES,PRESCHOOLERS,DISCRIMINATION,ACHIEVEMENT,NUMERICAL ESTIMATION,DISCOVERY,KNOWLEDGE,INSTRUCTION"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00489261"></attvalue>
+        </attvalues>
+        <viz:size value="22.328033"></viz:size>
+        <viz:position x="-606.3318" y="115.79363" z="0.0"></viz:position>
+        <viz:color r="174" g="150" b="148"></viz:color>
+      </node>
+      <node id="n413" label="Mesulam 1998">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000074381800002"></attvalue>
+          <attvalue for="v_publication_date" value="JUN"></attvalue>
+          <attvalue for="v_publication_year" value="1998.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology"></attvalue>
+          <attvalue for="v_times_cited" value="1088.0"></attvalue>
+          <attvalue for="v_title" value="From sensation to cognition"></attvalue>
+          <attvalue for="v_source" value="BRAIN"></attvalue>
+          <attvalue for="v_authority_score" value="0.0148255"></attvalue>
+          <attvalue for="v_hub_score" value="1.98089E-4"></attvalue>
+          <attvalue for="v_keywords" value="0"></attvalue>
+          <attvalue for="v_keyword_count" value="0.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00379857"></attvalue>
+        </attvalues>
+        <viz:size value="12.942908"></viz:size>
+        <viz:position x="-596.97375" y="157.06277" z="0.0"></viz:position>
+        <viz:color r="199" g="173" b="122"></viz:color>
+      </node>
+      <node id="n418" label="Nieder 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Review"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000313048700001"></attvalue>
+          <attvalue for="v_publication_date" value="JAN"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Behavioral Sciences; Neurosciences &amp; Neurology; Physiology; Zoology"></attvalue>
+          <attvalue for="v_times_cited" value="14.0"></attvalue>
+          <attvalue for="v_title" value="Coding of abstract quantity by 'number neurons' of the primate brain"></attvalue>
+          <attvalue for="v_source" value="JOURNAL OF COMPARATIVE PHYSIOLOGY A-NEUROETHOLOGY SENSORY NEURAL AND BEHAVIORAL PHYSIOLOGY"></attvalue>
+          <attvalue for="v_authority_score" value="0.323838"></attvalue>
+          <attvalue for="v_hub_score" value="0.0193994"></attvalue>
+          <attvalue for="v_keywords" value="MENTAL MULTIPLICATION SKILL,NETWORK,ACQUISITION,STRATEGIES,STROOP,SIMPLE ADDITIONS,MODELS,VERIFICATION,RETRIEVAL"></attvalue>
+          <attvalue for="v_keyword_count" value="2.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00385942"></attvalue>
+        </attvalues>
+        <viz:size value="13.464907"></viz:size>
+        <viz:position x="-588.1278" y="187.48885" z="0.0"></viz:position>
+        <viz:color r="198" g="172" b="124"></viz:color>
+      </node>
+      <node id="n427" label="De weerdt 2013">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000318663300018"></attvalue>
+          <attvalue for="v_publication_date" value="JUN"></attvalue>
+          <attvalue for="v_publication_year" value="2013.0"></attvalue>
+          <attvalue for="v_subject_category" value="Education &amp; Educational Research; Rehabilitation"></attvalue>
+          <attvalue for="v_times_cited" value="1.0"></attvalue>
+          <attvalue for="v_title" value="Behavioral inhibition in children with learning disabilities"></attvalue>
+          <attvalue for="v_source" value="RESEARCH IN DEVELOPMENTAL DISABILITIES"></attvalue>
+          <attvalue for="v_authority_score" value="0.0113454"></attvalue>
+          <attvalue for="v_hub_score" value="0.0"></attvalue>
+          <attvalue for="v_keywords" value="GIRLS,ABILITY,GENDER DIFFERENCES,INFANTS,SELECTION,MATHEMATICS,SPATIAL VISUALIZATION,FAMILY HANDEDNESS,TEST-SCORES,TASK"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.00585969"></attvalue>
+        </attvalues>
+        <viz:size value="30.624052"></viz:size>
+        <viz:position x="-557.181" y="265.69852" z="0.0"></viz:position>
+        <viz:color r="153" g="130" b="171"></viz:color>
+      </node>
+      <node id="n430" label="Prado 2011">
+        <attvalues>
+          <attvalue for="v_document_type" value="Article"></attvalue>
+          <attvalue for="v_isi_unique_article_identifier" value="WOS:000296850700014"></attvalue>
+          <attvalue for="v_publication_date" value="NOV"></attvalue>
+          <attvalue for="v_publication_year" value="2011.0"></attvalue>
+          <attvalue for="v_subject_category" value="Neurosciences &amp; Neurology; Radiology, Nuclear Medicine &amp; Medical Imaging"></attvalue>
+          <attvalue for="v_times_cited" value="20.0"></attvalue>
+          <attvalue for="v_title" value="Distinct Representations of Subtraction and Multiplication in the Neural Systems for Numerosity and Language"></attvalue>
+          <attvalue for="v_source" value="HUMAN BRAIN MAPPING"></attvalue>
+          <attvalue for="v_authority_score" value="0.218969"></attvalue>
+          <attvalue for="v_hub_score" value="0.0680452"></attvalue>
+          <attvalue for="v_keywords" value="MENTAL ADDITION,EXPERT,DECISION-MAKING,PRODUCT VERIFICATION,QUANTIFIERS,PERFORMANCE,ODD-EVEN RULE,CATEGORIZATION,RETRIEVAL"></attvalue>
+          <attvalue for="v_keyword_count" value="1.0"></attvalue>
+          <attvalue for="v_page_rank" value="0.0050719"></attvalue>
+        </attvalues>
+        <viz:size value="23.86606"></viz:size>
+        <viz:position x="-525.9657" y="323.1199" z="0.0"></viz:position>
+        <viz:color r="170" g="146" b="152"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e68662" source="n2" target="n19">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68701" source="n2" target="n32">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68709" source="n2" target="n34">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68711" source="n2" target="n35">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68760" source="n2" target="n54">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68754" source="n2" target="n56">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68779" source="n2" target="n60">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68846" source="n2" target="n97">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68910" source="n2" target="n124">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68897" source="n2" target="n130">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68948" source="n2" target="n177">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69003" source="n2" target="n216">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68996" source="n2" target="n220">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69084" source="n2" target="n254">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69126" source="n2" target="n274">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69111" source="n2" target="n277">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69113" source="n2" target="n278">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69112" source="n2" target="n279">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69167" source="n2" target="n291">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69166" source="n2" target="n292">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69165" source="n2" target="n298">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69149" source="n2" target="n306">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69191" source="n2" target="n331">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69180" source="n2" target="n338">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69184" source="n2" target="n341">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69181" source="n2" target="n342">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69172" source="n2" target="n343">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69267" source="n2" target="n355">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69271" source="n2" target="n372">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69270" source="n2" target="n373">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69284" source="n2" target="n379">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69289" source="n2" target="n386">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e69393" source="n2" target="n430">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e4164" source="n4" target="n289">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e64273" source="n8" target="n60">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e64291" source="n8" target="n430">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e23418" source="n41" target="n70">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e23421" source="n41" target="n111">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e30517" source="n54" target="n25">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e30519" source="n54" target="n47">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e30522" source="n54" target="n342">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e50223" source="n56" target="n47">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e61792" source="n65" target="n42">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e61794" source="n65" target="n410">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e32283" source="n70" target="n35">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e32289" source="n70" target="n151">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e53674" source="n78" target="n341">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68110" source="n86" target="n171">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68115" source="n86" target="n220">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68127" source="n86" target="n279">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e68131" source="n86" target="n306">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e62716" source="n104" target="n8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e62729" source="n104" target="n294">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e66444" source="n107" target="n56">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e66455" source="n107" target="n187">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e66459" source="n107" target="n220">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e66468" source="n107" target="n251">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e26550" source="n114" target="n188">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e26563" source="n114" target="n292">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e6299" source="n118" target="n203">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14071" source="n125" target="n25">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14090" source="n125" target="n79">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14109" source="n125" target="n177">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14139" source="n125" target="n279">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14147" source="n125" target="n332">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14146" source="n125" target="n342">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14159" source="n125" target="n358">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14155" source="n125" target="n410">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14165" source="n125" target="n418">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e14178" source="n125" target="n430">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e8983" source="n173" target="n41">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e8984" source="n173" target="n76">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e17682" source="n177" target="n277">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e17684" source="n177" target="n298">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e17686" source="n177" target="n379">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e20918" source="n188" target="n355">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e34987" source="n209" target="n266">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e50085" source="n220" target="n298">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e50090" source="n220" target="n379">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e12942" source="n226" target="n427">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e40805" source="n239" target="n254">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e40811" source="n239" target="n326">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e40814" source="n239" target="n398">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e18895" source="n254" target="n79">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e28556" source="n258" target="n2">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e28568" source="n258" target="n34">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e28592" source="n258" target="n125">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e28632" source="n258" target="n317">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e28625" source="n258" target="n341">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e1622" source="n266" target="n57">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e1627" source="n266" target="n130">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e1630" source="n266" target="n216">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e71319" source="n278" target="n338">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e71320" source="n278" target="n372">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e26990" source="n279" target="n15">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e26991" source="n279" target="n47">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e4915" source="n294" target="n60">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e4926" source="n294" target="n125">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e4930" source="n294" target="n177">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e4937" source="n294" target="n198">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e4936" source="n294" target="n220">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e4955" source="n294" target="n342">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e4961" source="n294" target="n379">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e61325" source="n296" target="n410">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e58884" source="n315" target="n208">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e57477" source="n317" target="n51">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e57490" source="n317" target="n292">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e70142" source="n326" target="n386">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e54344" source="n332" target="n226">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e54351" source="n332" target="n380">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e49575" source="n338" target="n343">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e60064" source="n373" target="n151">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e60068" source="n373" target="n277">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e60069" source="n373" target="n279">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e60072" source="n373" target="n298">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e6302" source="n380" target="n207">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e42179" source="n389" target="n47">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e42182" source="n389" target="n57">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e42224" source="n389" target="n248">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e42228" source="n389" target="n277">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e42242" source="n389" target="n331">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51168" source="n392" target="n25">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51181" source="n392" target="n41">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51201" source="n392" target="n76">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51207" source="n392" target="n78">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51245" source="n392" target="n173">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51278" source="n392" target="n254">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51303" source="n392" target="n342">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51319" source="n392" target="n373">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e51347" source="n392" target="n430">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e33145" source="n398" target="n8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e33149" source="n398" target="n104">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e29164" source="n413" target="n398">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e38348" source="n418" target="n33">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e38357" source="n418" target="n318">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e38358" source="n418" target="n358">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e30237" source="n430" target="n25">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e30239" source="n430" target="n54">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e30241" source="n430" target="n60">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="e30247" source="n430" target="n342">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

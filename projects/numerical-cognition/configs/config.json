@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "Kia, Nibu, Sam",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "Academic Landscape of Numerical Cognition",
+    "more": "Each small circle (or node) in the graph denotes a research article in the field of \"numerical cognition\". There are 582 articles in this network. Darker (more bluish) nodes are more authoritative articles. If there is a line (or edge) connecting two articles, it means the two articles are often cited together (because they most probably have similar content). Darker (more bluish) lines show more recent initial co-citation (possibly indicating more recent articles).\n\nArticles in central positions and having many lines are possibly review articles. Larger nodes have higher page rank (a ranking system that shows relative importance). The structure of the network shows semantic clustering, that is, articles having similar content are grouped together.",
+    "intro": ""
+  },
+  "legend": {
+    "edgeLabel": "Co-citation",
+    "colorLabel": "Authority",
+    "nodeLabel": "Articles"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.9,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 1.0,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}

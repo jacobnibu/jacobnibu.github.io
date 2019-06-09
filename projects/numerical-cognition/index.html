@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Academic Landscape of Numerical Cognition</title>	
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="css/nbstyle.css" />
+        <link rel="stylesheet" type="text/css" href="css/jquery-ui.css" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript">
+        // Fallback in case JQuery CDN isn't available
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript type='text/javascript' src='js/jquery-1.7.2.min.js'%3E%3C/script%3E"));
+            }
+        </script>
+        <script type="text/javascript" src="js/jquery.mousewheel.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+        <script type="text/javascript" src="js/gexfjs.js"></script>
+        <script type="text/javascript" src="configs/config.js"></script>
+		
+    </head>
+    <body>
+        <div id="zonecentre" class="gradient">
+            <canvas id="carte" width="0" height="0"></canvas>
+            <ul id="ctlzoom">
+                <li>
+                    <a href="#" id="zoomPlusButton" title="S'approcher"> </a>
+                </li>
+                <li id="zoomSliderzone">
+                    <div id="zoomSlider"></div>
+                </li>
+                <li>
+                    <a href="#" id="zoomMinusButton" title="S'éloigner"> </a>
+                </li>
+                <li>
+                    <a href="#" id="lensButton"> </a>
+                </li>
+                <li>
+                    <a href="#" id="edgesButton"> </a>
+                </li>
+            </ul>
+        </div>
+        <div id="overviewzone" class="gradient">
+            <canvas id="overview" width="0" height="0"></canvas>
+        </div>
+        <div id="leftcolumn">
+            <div id="unfold">
+                <a href="#" id="aUnfold" class="rightarrow"> </a>
+            </div>
+            <div id="leftcontent"></div>
+        </div>
+        <div id="titlebar">
+			<ul class="nbmenu">
+				<li>Fruchterman-Reingold layout</li>
+				<li><a href="gem.html">GEM layout</a></li>
+				<li><a href="pagerank.html">Top 100 by PageRank</a></li>
+				<li><a href="authority.html">Top 100 by Authority</a></li>
+			</ul>
+            <form id="recherche">
+                <input id="searchinput" class="grey" autocomplete="off" value="Search by author"/>
+                <input id="searchsubmit" type="submit" />
+            </form>
+			<!-- <form id="recherche2">
+                <input id="searchinput2" class="grey" autocomplete="off" value="Search by keyword"/>
+                <input id="searchsubmit2" type="submit" />
+            </form> -->
+			<br /><p align="right"></p>
+			<div tabindex='1' id='box'>
+			<div id="legendGem"></div>
+			<p>Co-citation network of 582 articles</p>
+			</div>
+        </div>
+        <ul id="autocomplete">
+        </ul>
+		<ul id="autocomplete2">
+        </ul>
+		
+    </body>
+</script>
+</html>
