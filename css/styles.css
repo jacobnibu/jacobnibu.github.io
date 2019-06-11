@@ -126,9 +126,9 @@ body {
 	}
 }
 
-.main {
+/* .main {
 	position: relative
-}
+} */
 
 .content {
 	display: -webkit-box;
@@ -3638,4 +3638,135 @@ em {
 }
 .menuitem {
 	margin-bottom: 45px;
+}
+#article {
+  width:320px;
+  padding:0px;
+  margin:0px;
+  overflow:hidden;
+}
+#article img {
+  padding: 0px;
+  display: block;
+  width: 100%;
+}
+
+#article:hover span{
+/* 	border-bottom:3px solid #efc337; */
+background-color:rgba(239, 195, 55, 0.9);
+color:#000;
+}
+
+#article span {
+  width:100%;
+  padding:4px;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  text-align: center;
+}
+.art_title {
+font-weight:bold;
+display:block;
+text-align: center;
+margin:12px;
+}
+
+.fancy {
+line-height: 0.2;
+text-align: center;
+}
+.fancy span {
+display: inline-block;
+position: relative;  
+}
+.fancy span:before,
+.fancy span:after {
+content: "";
+position: absolute;
+height: 5px;
+border-bottom: 1px solid #efc337;
+border-top: 1px solid #efc337;
+top: 0;
+width: 50%;
+}
+.fancy span:before {
+right: 100%;
+margin-right: 15px;
+}
+.fancy span:after {
+left: 100%;
+margin-left: 15px;
+}
+.art_back{margin:20px; display:block;color:#000;font-style:italic;font-size:0.8em;font-weight:bold;}
+
+.article {
+margin:30px;
+-webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+}
+.article p {
+margin: 0 0 1.2em 0;
+line-height:1.5em;
+}
+.article img {width:100%;}
+
+#project {
+  -webkit-box-shadow: 0 4px 15px -5px #555;
+  box-shadow: 0 4px 15px -5px #555;
+  background-color: #fff;
+/* 		width:400px; */
+  padding:10px;
+/* 		margin:0px; */
+  overflow:hidden;
+}
+
+.projtitle {
+font-weight:bold;
+display:block;
+text-align: center;
+margin-bottom:3px;
+}
+
+#project a, .article a {
+color:#3747F0;
+}
+
+.linespacehigh {line-height:140%; margin:0px;}
+.linespacelow {line-height:40%;margin-bottom:4px;font-size:16px;font-style:italic}
+.deliverable {line-height:40%;margin-bottom:4px;font-size:16px;}
+.title {
+	font-weight:bold;
+	display:block;
+	text-align: center;
+	margin-bottom:12px;
+}
+
+.hometitleblock{
+	position:absolute;
+	top:0px; left:182px;
+}
+.hometitle {
+	float:left;
+	position:absolute;
+	bottom:4px;left:128px;
+	margin-bottom:0px;
+	width:400px;
+	color:#424242;
+}
+.subtitle {
+  display: block;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.homeicon {
+/* 	padding-left:45px; */
+	margin-bottom: 65px;
+}
+
+.toprighticons {
+	position:absolute;
+	top:23px;
+	right:80px;
 }
